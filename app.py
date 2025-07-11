@@ -5,7 +5,9 @@ from datetime import datetime
 from dateutil import parser
 from dateutil.parser import parse
 import re
-from st_aggrid import AgGrid, GridOptionsBuilder
+import os
+os.environ["STREAMLIT_WATCH_DIRECTORIES"] = "false"
+
 
 
 
