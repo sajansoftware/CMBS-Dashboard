@@ -1,0 +1,3836 @@
+{
+  "n1967-x4": {
+    "loan_id": "n1967-x4",
+    "file_name": "n1967-x4_ts.png",
+    "loan_seller": "Bank of America, National Association",
+    "credit_assessment": {
+      "Fitch": "NR",
+      "KBRA": "NR",
+      "S&P": "NR"
+    },
+    "original_principal_balance": 48900000,
+    "cut_off_date_balance": 48900000,
+
+    "percent_of_final_pool_balance": 3.0,
+    "borrower_sponsor": "BREIT Operating Partnership L.P.",
+    "guarantor": "BREIT Operating Partnership L.P.",
+    "mortgage_rate": 3.2678,
+    "note_date": "December 5, 2019",
+    "seasoning": "1 month",
+    "maturity_date": "January 6, 2030",
+    "io_period": "120 months",
+    "loan_purpose": "Acquisition",
+    "loan_term_original": "120 months",
+    "amortization_term_original": "NAP",
+    "loan_amortization_type": "Interest-only, Balloon",
+    "call_protection": "GRTR 0.5% or YM(25), GRTR 0.5% or YM or D(89), O(6)",
+    "lockbox_type": "Hard/Springing Cash Management",
+    "additional_debt": "None",
+    "additional_debt_type_balance": "NAP",
+    "mortgaged_property_info": {
+      "single_asset_or_portfolio": "Portfolio",
+      "property_type_subtype": "Other \u2013 Data Center",
+      "location": "Sterling, VA",
+      "size": "271,160 SF",
+      "cut_off_date_balance_per_sf": 180.56,
+      "maturity_date_arod_balance_per_sf": 164.56,
+      "year_built_renovated": "2016/NAP",
+      "title_vesting": "Fee",
+      "property_manager": "Self-managed",
+      "current_occupancy_as_of": "100.0% (2/1/2020)",
+      "ye_2018_occupancy": "100.0%",
+      "ye_2017_occupancy": "NAV",
+      "ye_2016_occupancy": "NAV",
+      "ye_2015_occupancy": "NAV",
+      "as_is_appraised_value": 81000000,
+      "as_is_appraised_value_per_sf": 272.58,
+      "as_is_appraisal_valuation_date": "November 20, 2019"
+    },
+    "underwriting_financial_info": {
+      "ttm_noi_as_of_09302019": 3865694,
+      "ye_2018_noi": "NAV",
+      "ye_2017_noi": "NAV",
+      "ye_2016_noi": "NAV",
+      "uw_revenues": 5240380,
+      "uw_expenses": 588137,
+      "uw_nob": 4616234,
+      "uw_ncf": 4815024,
+      "uw_dscr_based_on_noi_ncf": "2.85x / 2.73x",
+      "uw_debt_yield_based_on_noi_ncf": "9.4% / 9.0%",
+      "uw_debt_yield_at_maturity_based_on_noi_ncf": "9.4% / 9.0%",
+      "cut_off_date_ltv_ratio": "60.4%",
+      "ltv_ratio_at_maturity": "60.4%"
+    },
+    "escrows_and_reserves": {
+      "taxes": {
+        "initial": "$0",
+        "monthly": "Springing",
+        "cap": "N/A"
+      },
+      "insurance": {
+        "initial": "$0",
+        "monthly": "Springing",
+        "cap": "N/A"
+      }
+    },
+    "sources_and_uses": {
+      "sources": {
+        "original_loan_amount": {
+          "amount": 48900000,
+          "percentage": "62.8%"
+        },
+        "borrower_equity": {
+          "amount": 28991897,
+          "percentage": "37.2%"
+        },
+        "total_sources": {
+          "amount": 77891897,
+          "percentage": "100.0%"
+        }
+      },
+      "uses": {
+        "purchase_price": {
+          "amount": 76927388,
+          "percentage": "98.8%"
+        },
+        "closing_costs": {
+          "amount": 960509,
+          "percentage": "1.2%"
+        },
+        "total_uses": {
+          "amount": 77891897,
+          "percentage": "100.0%"
+        }
+      }
+    },
+    "major_tenant": {
+      "tenants": [
+        {
+          "name": "Vadata, Inc. (DC-21)",
+          "credit_rating": {
+            "Fitch": "AA",
+            "Moody's": "A3",
+            "S&P": "AA-"
+          },
+          "nrsf": 148580,
+          "percent_of_nrsf": "50.0%",
+          "annual_uw_base_rent_psf": 14.42,
+          "annual_uw_base_rent": 2142123,
+          "percent_of_total_annual_uw_base_rent": "49.6%",
+          "lease_expiration_date": "6/30/2029",
+          "extension_options": "4, 5-year",
+          "termination_option": "N"
+        },
+        {
+          "name": "Vadata, Inc. (DC-22)",
+          "credit_rating": {
+            "Fitch": "A+",
+            "Moody's": "A3",
+            "S&P": "AA-"
+          },
+          "nrsf": 148580,
+          "percent_of_nrsf": "50.0%",
+          "annual_uw_base_rent_psf": 14.63,
+          "annual_uw_base_rent": 2173719,
+          "percent_of_total_annual_uw_base_rent": "50.4%",
+          "lease_expiration_date": "10/31/2029",
+          "extension_options": "4, 5-year",
+          "termination_option": "N"
+        }
+      ],
+      "total": {
+        "nrsf": 297160,
+        "percent_of_nrsf": "100.0%",
+        "avg_uw_base_rent_psf": 14.52,
+        "total_uw_base_rent": 4315842,
+        "percent_of_total_uw_base_rent": "100.0%"
+      }
+    },
+    "lease_expiration_schedule": {
+      "schedule": [
+        {
+          "year": "2029",
+          "no_of_leases_expiring": 2,
+          "expiring_nrsf": 297160,
+          "percent_of_total_nrsf": "100.0%",
+          "cumulative_expiring_nrsf": 297160,
+          "cumulative_percent_of_total_nrsf": "100.0%",
+          "annual_uw_base_rent": 4315842,
+          "percent_of_total_uw_base_rent": "100.0%",
+          "annual_uw_base_rent_psf": 14.52
+        }
+      ],
+      "totals": {
+        "total_leases_expiring": 2,
+        "total_expiring_nrsf": 297160,
+        "total_percent_of_nrsf": "100.0%",
+        "total_annual_uw_base_rent": 4315842,
+        "total_percent_of_uw_base_rent": "100.0%",
+        "weighted_avg_uw_base_rent_psf": 14.52
+      }
+    },
+    "historical_occupancy": {
+      "2015-12-31": "NAV",
+      "2016-12-31": "NAV",
+      "2017-12-31": "NAV",
+      "2018-12-31": "100.0%",
+      "2020-02-01": "100.0%",
+      "notes": "Occupancy prior to 2018 is not applicable, as the Powered Shell Portfolio \u2013 Sterling Properties were constructed in 2016 and the tenant, Vadata, Inc., signed two triple-net leases that commenced on October 1, 2017 and November 1, 2017, respectively."
+    },
+    "cash_flow_analysis": {
+      "ttm_09302019": {
+        "base_rent": 3917829,
+        "straight_line_rent": 0,
+        "gross_potential_rent": 3917829,
+        "reimbursements": 453120,
+        "net_rental_income": 4370949,
+        "vacancy": 0,
+        "effective_gross_income": 4370949,
+        "real_estate_taxes": 284649,
+        "insurance": 13611,
+        "other_operating_expenses": 176725,
+        "total_operating_expenses": 474985,
+        "net_operating_income": 3895964,
+        "ti_lc": 0,
+        "capital_expenditures": 0,
+        "net_cash_flow": 3895964,
+        "noi_dscr": "2.40x",
+        "ncf_dscr": "2.40x",
+        "noi_debt_yield": "8.0%",
+        "ncf_debt_yield": "8.0%"
+      },
+      "uw": {
+        "base_rent": 4315842,
+        "straight_line_rent": 470129,
+        "gross_potential_rent": 4785971,
+        "reimbursements": 579369,
+        "net_rental_income": 5365340,
+        "vacancy": 160360,
+        "effective_gross_income": 5204020,
+        "real_estate_taxes": 0,
+        "insurance": 0,
+        "other_operating_expenses": 588137,
+        "total_operating_expenses": 588137,
+        "net_operating_income": 4616243,
+        "ti_lc": 156645,
+        "capital_expenditures": 45174,
+        "net_cash_flow": 4815024,
+        "noi_dscr": "2.85x",
+        "ncf_dscr": "2.73x",
+        "noi_debt_yield": "9.4%",
+        "ncf_debt_yield": "9.0%"
+      },
+      "uw_percent": {
+        "base_rent": "80.4%",
+        "straight_line_rent": "8.8%",
+        "gross_potential_rent": "89.2%",
+        "reimbursements": "10.6%",
+        "net_rental_income": "100.0%",
+        "vacancy": "3.4%",
+        "effective_gross_income": "97.0%",
+        "real_estate_taxes": "0.0%",
+        "insurance": "0.0%",
+        "other_operating_expenses": "11.3%",
+        "total_operating_expenses": "11.3%",
+        "net_operating_income": "88.7%",
+        "ti_lc": "3.0%",
+        "capital_expenditures": "0.9%",
+        "net_cash_flow": "84.8%"
+      },
+      "uw_psf": {
+        "base_rent": 14.52,
+        "straight_line_rent": 1.58,
+        "gross_potential_rent": 16.11,
+        "reimbursements": 1.95,
+        "net_rental_income": 18.06,
+        "vacancy": 0.54,
+        "effective_gross_income": 17.51,
+        "real_estate_taxes": 0.0,
+        "insurance": 0.0,
+        "other_operating_expenses": 1.98,
+        "total_operating_expenses": 1.98,
+        "net_operating_income": 15.53,
+        "ti_lc": 0.53,
+        "capital_expenditures": 0.15,
+        "net_cash_flow": 14.86
+      }
+    },
+    "sales_comparables": [
+      {
+        "building_name": "Powered Shell Portfolio \u2013 Sterling",
+        "address": "45295 & 45305 West Severn Way, Sterling, VA",
+        "date_of_sale": "NAP",
+        "year_built": "NAP",
+        "total_building_area_sf": 297160,
+        "sales_price": 76927388,
+        "sales_price_psf": 272.58,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "NAP",
+        "address": "2500 W. Frye Road, Chandler, AZ",
+        "date_of_sale": "Aug-19",
+        "year_built": "1985",
+        "total_building_area_sf": 191061,
+        "sales_price": 72750000,
+        "sales_price_psf": 380.77,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "SunGuard",
+        "address": "601 2nd Avenue South, Hopkins, MN",
+        "date_of_sale": "Aug-19",
+        "year_built": "1980",
+        "total_building_area_sf": 29660,
+        "sales_price": 4750000,
+        "sales_price_psf": 160.15,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "Confidential (East Coast)",
+        "address": "Confidential",
+        "date_of_sale": "Jun-19",
+        "year_built": "2016\u20132017",
+        "total_building_area_sf": 1174200,
+        "sales_price": 256000000,
+        "sales_price_psf": 218.02,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "Amazon (AWS)",
+        "address": "26345 Corporate Avenue, Hayward, CA",
+        "date_of_sale": "Nov-18",
+        "year_built": "2016",
+        "total_building_area_sf": 145850,
+        "sales_price": 34975000,
+        "sales_price_psf": 239.8,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "Secure Data 365",
+        "address": "4725 Hills and Dales Road NW, Canton, OH",
+        "date_of_sale": "Oct-18",
+        "year_built": "2008",
+        "total_building_area_sf": 29460,
+        "sales_price": 9425000,
+        "sales_price_psf": 134.59,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "AT&T Data Center",
+        "address": "400 Holger Way, San Jose, CA",
+        "date_of_sale": "Jun-18",
+        "year_built": "1999",
+        "total_building_area_sf": 76410,
+        "sales_price": 49000000,
+        "sales_price_psf": 641.28,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "Powered Shell",
+        "address": "194 Washington Avenue, Albany, NY",
+        "date_of_sale": "Apr-18",
+        "year_built": "1950",
+        "total_building_area_sf": 73000,
+        "sales_price": 9200000,
+        "sales_price_psf": 126.03,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "Skybox Legacy",
+        "address": "6815 Communications Pkwy, Plano, TX",
+        "date_of_sale": "Mar-18",
+        "year_built": "2017",
+        "total_building_area_sf": 149200,
+        "sales_price": 55000000,
+        "sales_price_psf": 368.63,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "Pathfinder Plaza",
+        "address": "45900, 45930 & 45950 Pathfinder Plaza, Sterling, VA",
+        "date_of_sale": "Mar-18",
+        "year_built": "2017",
+        "total_building_area_sf": 446811,
+        "sales_price": 111577310,
+        "sales_price_psf": 249.72,
+        "percent_occupied": "100%"
+      },
+      {
+        "building_name": "InfoCrossing",
+        "address": "11707 Miracle Hills Drive, Omaha, NE",
+        "date_of_sale": "Mar-18",
+        "year_built": "1988/1995 (Ren.)",
+        "total_building_area_sf": 85200,
+        "sales_price": 16400000,
+        "sales_price_psf": 192.49,
+        "percent_occupied": "100%"
+      }
+    ]
+  },
+  "n2405-x1": {
+    "loan_id": "n2405-x1",
+    "file_name": "n2405-x1_premarketts.png",
+    "mortgaged_property_information": {
+      "number_of_mortgaged_properties": 1,
+      "location": "San Francisco, California",
+      "property_type": "Office/Data Center",
+      "loan_purpose": "Acquisition",
+      "size_sqft": 179277,
+      "total_occupancy_as_of_12_30_2020": "100.0%",
+      "owned_occupancy_as_of_12_30_2020": "100.0%",
+      "year_built_latest_renovation": "1924 / 2000",
+      "appraised_value": "$260,000,000",
+      "appraisal_date": "5/1/2022",
+      "borrower_sponsor": "John R. Wither",
+      "property_management": "Harvest Properties Inc.",
+      "underwritten_revenues": 18490906,
+      "underwritten_expenses": 4757608,
+      "underwritten_noi": 13773298,
+      "underwritten_ncf": 13464326,
+      "cut_off_date_ltv_ratio": "40.3%",
+      "maturity_date_ltv_ratio": "33.4%",
+      "dscr_based_on_underwritten_noi_ncf": "2.18x / 2.13x",
+      "debt_yield_based_on_underwritten_noi_ncf": "13.1% / 12.9%"
+    },
+    "mortgage_loan_information": {
+      "loan_seller": "GACC",
+      "cut_off_date_principal_balance": "$104,726,660",
+      "cut_off_date_principal_balance_per_sf": "$584.16",
+      "percentage_of_initial_pool_balance": "6.8%",
+      "number_of_related_mortgage_loans": "One",
+      "type_of_security": "Fee Simple",
+      "mortgage_rate": "2.786025%",
+      "original_term_to_maturity_months": 120,
+      "original_amortization_term_months": 360,
+      "original_interest_only_period_months": 60,
+      "first_payment_date": "2/6/2021",
+      "maturity_date": "1/6/2031",
+      "escrows": {
+        "taxes": {
+          "upfront": "$382,011",
+          "monthly": "$95,503"
+        },
+        "insurance": {
+          "upfront": "$0",
+          "monthly": "$0"
+        },
+        "replacement_reserves": {
+          "upfront": "$0",
+          "monthly": "$3,735"
+        },
+        "ti_lc": {
+          "upfront": "$0",
+          "monthly": "$18,675"
+        },
+        "other": {
+          "upfront": "$23,354,784",
+          "monthly": "$0"
+        }
+      }
+    },
+    "sources_and_uses": {
+      "sources": {
+        "senior_loan_amount": {
+          "amount": "$105,000,000",
+          "percent": "54.8%"
+        },
+        "subordinate_loan_amount": {
+          "amount": "$55,000,000",
+          "percent": "28.7%"
+        },
+        "mezzanine_loan_amount": {
+          "amount": "$25,000,000",
+          "percent": "13.1%"
+        },
+        "sponsor_equity": {
+          "amount": "$6,447,299",
+          "percent": "3.4%"
+        },
+        "total_sources": {
+          "amount": "$191,447,299",
+          "percent": "100.0%"
+        }
+      },
+      "uses": {
+        "purchase_price": {
+          "amount": "$165,468,922",
+          "percent": "86.4%"
+        },
+        "reserves": {
+          "amount": "$23,736,795",
+          "percent": "12.4%"
+        },
+        "origination_costs": {
+          "amount": "$2,241,582",
+          "percent": "1.2%"
+        },
+        "total_uses": {
+          "amount": "$191,447,299",
+          "percent": "100.0%"
+        }
+      }
+    },
+    "loan_combination_summary": {
+      "notes": [
+        {
+          "note": "A-1",
+          "original_balance": "$75,000,000",
+          "cut_off_date_balance": "$74,804,757",
+          "note_holder": "Benchmark 2021-B23",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-2",
+          "original_balance": "$25,000,000",
+          "cut_off_date_balance": "$24,934,919",
+          "note_holder": "Benchmark 2021-B23",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-3",
+          "original_balance": "$5,000,000",
+          "cut_off_date_balance": "$4,986,984",
+          "note_holder": "Benchmark 2021-B23",
+          "controlling_piece": "No"
+        }
+      ],
+      "total_senior_notes": {
+        "original_balance": "$105,000,000",
+        "cut_off_date_balance": "$104,726,660",
+        "note_holder": "Benchmark 2021-B23 Loan Specific Certificates",
+        "controlling_piece": "Yes"
+      },
+      "total": {
+        "original_balance": "$160,000,000",
+        "cut_off_date_balance": "$159,725,832"
+      }
+    },
+    "largest_tenants_based_on_uw_base_rent": {
+      "tenants": [
+        {
+          "tenant_name": "Verizon",
+          "credit_rating": "A- / Baa1 / BBB",
+          "tenant_gla": 89237,
+          "percent_of_gla": "49.8%",
+          "uw_base_rent": 7504909,
+          "percent_of_total_uw_base_rent": "50.0%",
+          "uw_base_rent_per_sf": "$84.10",
+          "lease_expiration": "12/31/2040",
+          "renewal_extension_options": "Various"
+        },
+        {
+          "tenant_name": "Antic",
+          "credit_rating": "NR / NR / NR",
+          "tenant_gla": 39786,
+          "percent_of_gla": "22.2%",
+          "uw_base_rent": 3797670,
+          "percent_of_total_uw_base_rent": "25.2%",
+          "uw_base_rent_per_sf": "$95.00",
+          "lease_expiration": "5/31/2028",
+          "renewal_extension_options": "1, 5-year option"
+        },
+        {
+          "tenant_name": "Vitalant",
+          "credit_rating": "NR / NR / NR",
+          "tenant_gla": 33137,
+          "percent_of_gla": "18.6%",
+          "uw_base_rent": 2498775,
+          "percent_of_total_uw_base_rent": "16.7%",
+          "uw_base_rent_per_sf": "$75.00",
+          "lease_expiration": "5/31/2030",
+          "renewal_extension_options": "2, 5-year options"
+        },
+        {
+          "tenant_name": "T&T",
+          "credit_rating": "A- / Baa2 / BBB",
+          "tenant_gla": 16837,
+          "percent_of_gla": "9.4%",
+          "uw_base_rent": 1213367,
+          "percent_of_total_uw_base_rent": "8.1%",
+          "uw_base_rent_per_sf": "$71.64",
+          "lease_expiration": "12/31/2026",
+          "renewal_extension_options": "None"
+        }
+      ],
+      "total": {
+        "total_gla": 179277,
+        "percent_of_total_gla": "100.0%",
+        "total_uw_base_rent": 14996721,
+        "percent_of_total_uw_base_rent": "100.0%",
+        "avg_uw_base_rent_per_sf": "$83.65"
+      }
+    },
+    "lease_expiration_schedule": {
+      "schedule": [
+        {
+          "year": "MTM",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "0.0%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2021",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "0.0%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2022",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "0.0%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2023",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "0.0%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2024",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "0.0%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2025",
+          "expiring_owned_gla": 16937,
+          "percent_of_owned_gla": "9.4%",
+          "cumulative_percent_of_owned_gla": "9.4%",
+          "uw_base_rent": "$1,213,367",
+          "percent_of_total_uw_base_rent": "8.1%",
+          "uw_base_rent_per_sf": "$71.64",
+          "num_expiring_leases": 1
+        },
+        {
+          "year": "2026",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "9.4%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2028",
+          "expiring_owned_gla": 39786,
+          "percent_of_owned_gla": "22.2%",
+          "cumulative_percent_of_owned_gla": "31.6%",
+          "uw_base_rent": "$3,779,670",
+          "percent_of_total_uw_base_rent": "25.2%",
+          "uw_base_rent_per_sf": "$95.00",
+          "num_expiring_leases": 1
+        },
+        {
+          "year": "2029",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "31.6%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2030",
+          "expiring_owned_gla": 33317,
+          "percent_of_owned_gla": "18.6%",
+          "cumulative_percent_of_owned_gla": "50.2%",
+          "uw_base_rent": "$2,498,775",
+          "percent_of_total_uw_base_rent": "16.7%",
+          "uw_base_rent_per_sf": "$75.00",
+          "num_expiring_leases": 1
+        },
+        {
+          "year": "2031",
+          "expiring_owned_gla": 0,
+          "percent_of_owned_gla": "0.0%",
+          "cumulative_percent_of_owned_gla": "50.2%",
+          "uw_base_rent": "$0",
+          "percent_of_total_uw_base_rent": "0.0%",
+          "uw_base_rent_per_sf": "$0.00",
+          "num_expiring_leases": 0
+        },
+        {
+          "year": "2032 & Thereafter",
+          "expiring_owned_gla": 89237,
+          "percent_of_owned_gla": "49.8%",
+          "cumulative_percent_of_owned_gla": "100.0%",
+          "uw_base_rent": "$7,504,909",
+          "percent_of_total_uw_base_rent": "50.0%",
+          "uw_base_rent_per_sf": "$84.10",
+          "num_expiring_leases": 1
+        }
+      ],
+      "totals": {
+        "total_gla": 179277,
+        "total_uw_base_rent": "$14,996,721",
+        "avg_uw_base_rent_per_sf": "$83.65",
+        "total_expiring_leases": 4
+      }
+    },
+    "historical_leased_percent": {
+      "2017": "69.9%",
+      "2018": "71.3%",
+      "2019": "54.3%",
+      "as_of_12_30_2020": "100.0%"
+    },
+    "cash_flow_analysis": {
+      "base_rent": {
+        "2019": "$3,766,448",
+        "ttm_oct_31_2020": "$3,860,517",
+        "underwritten": "$14,996,721",
+        "underwritten_psf": "$83.65"
+      },
+      "rent_steps": {
+        "2019": "$0",
+        "ttm_oct_31_2020": "$0",
+        "underwritten": "$1,353,802",
+        "underwritten_psf": "$7.44"
+      },
+      "total_reimbursement_revenue": {
+        "2019": "$165,588",
+        "ttm_oct_31_2020": "$248,643",
+        "underwritten": "$3,119,278",
+        "underwritten_psf": "$17.40"
+      },
+      "total_other_income": {
+        "2019": "($24,037)",
+        "ttm_oct_31_2020": "$164,444",
+        "underwritten": "$24,060",
+        "underwritten_psf": "$0.13"
+      },
+      "gross_revenue": {
+        "2019": "$3,907,979",
+        "ttm_oct_31_2020": "$4,273,604",
+        "underwritten": "$19,474,000",
+        "underwritten_psf": "$108.74"
+      },
+      "vacancy_loss": {
+        "2019": "$0",
+        "ttm_oct_31_2020": "$0",
+        "underwritten": "($482,888)",
+        "underwritten_psf": "($2.69)"
+      },
+      "effective_gross_revenue": {
+        "2019": "$3,907,979",
+        "ttm_oct_31_2020": "$4,273,604",
+        "underwritten": "$18,990,000",
+        "underwritten_psf": "$106.04"
+      },
+      "real_estate_taxes": {
+        "2019": "$1,352,711",
+        "ttm_oct_31_2020": "$1,389,391",
+        "underwritten": "$2,421,892",
+        "underwritten_psf": "$13.51"
+      },
+      "insurance": {
+        "2019": "$48,489",
+        "ttm_oct_31_2020": "$144,499",
+        "underwritten": "$612,000",
+        "underwritten_psf": "$3.41"
+      },
+      "management_fee": {
+        "2019": "$150,000",
+        "ttm_oct_31_2020": "$147,803",
+        "underwritten": "$551,727",
+        "underwritten_psf": "$3.08"
+      },
+      "other_operating_expenses": {
+        "2019": "$669,407",
+        "ttm_oct_31_2020": "$648,720",
+        "underwritten": "$2,166,823",
+        "underwritten_psf": "$12.09"
+      },
+      "total_operating_expenses": {
+        "2019": "$2,189,027",
+        "ttm_oct_31_2020": "$2,330,414",
+        "underwritten": "$4,757,608",
+        "underwritten_psf": "$26.54"
+      },
+      "net_operating_income": {
+        "2019": "$1,709,952",
+        "ttm_oct_31_2020": "$1,933,188",
+        "underwritten": "$13,733,298",
+        "underwritten_psf": "$76.60"
+      },
+      "replacement_reserves": {
+        "2019": "$0",
+        "ttm_oct_31_2020": "$0",
+        "underwritten": "$268,916",
+        "underwritten_psf": "$1.50"
+      },
+      "net_cash_flow": {
+        "2019": "$1,709,952",
+        "ttm_oct_31_2020": "$1,933,188",
+        "underwritten": "$13,464,382",
+        "underwritten_psf": "$75.10"
+      },
+      "occupancy": {
+        "2019": "54.3%",
+        "ttm_oct_31_2020": "100.0%",
+        "underwritten": "100.0%"
+      },
+      "noi_debt_yield": {
+        "2019": "1.6%",
+        "ttm_oct_31_2020": "1.8%",
+        "underwritten": "12.9%"
+      },
+      "ncf_dscr": {
+        "2019": "0.27x",
+        "ttm_oct_31_2020": "0.31x",
+        "underwritten": "2.13x"
+      }
+    },
+    "appraisal": {
+      "appraised_value": "$260,000,000",
+      "appraisal_date": "5/1/2022",
+      "appraisal_basis": "As Stabilized",
+      "appraisal_notes": {
+        "as_is_value": "$236,600,000",
+        "key_assumptions": [
+          "All contractual tenant improvement and leasing commission (TI/LC) obligations fulfilled",
+          "All tenants paying unabated rent",
+          "Includes Vitalant (18.6% of NRA) lease, though not yet commenced",
+          "Holdback reserve for Vitalant of $8,042,501",
+          "Upfront reserves include $6,703,964 for gap and free rent",
+          "Total appraisal-based LTV: 33.4% at maturity date"
+        ]
+      }
+    },
+    "comparable_office_leases": [
+      {
+        "property_name_location": "360 Spear, San Francisco, CA",
+        "tenant_name": "Lattice",
+        "lease_start_date": "Jan-21",
+        "term_months": 89,
+        "lease_type": "Gross",
+        "tenant_size": 39786,
+        "base_rent_psf": "$95.00",
+        "free_rent_months": 4,
+        "ti_psf": "$125.00"
+      },
+      {
+        "property_name_location": "Loft Office Building, San Francisco, CA",
+        "tenant_name": "Epic Games",
+        "lease_start_date": "Oct-20",
+        "term_months": 32,
+        "lease_type": "Gross",
+        "tenant_size": 7467,
+        "base_rent_psf": "$95.00",
+        "free_rent_months": 0,
+        "ti_psf": "$18.33"
+      },
+      {
+        "property_name_location": "144 Townsend Street, San Francisco, CA",
+        "tenant_name": "User Testing",
+        "lease_start_date": "Sep-20",
+        "term_months": 60,
+        "lease_type": "Gross",
+        "tenant_size": 45000,
+        "base_rent_psf": "$80.00",
+        "free_rent_months": 6,
+        "ti_psf": "$0.00"
+      },
+      {
+        "property_name_location": "747 Front Street, San Francisco, CA",
+        "tenant_name": "IVP",
+        "lease_start_date": "Sep-20",
+        "term_months": 100,
+        "lease_type": "Gross",
+        "tenant_size": 9000,
+        "base_rent_psf": "$87.00",
+        "free_rent_months": 4,
+        "ti_psf": "$80.00"
+      },
+      {
+        "property_name_location": "720 Market Street, San Francisco, CA",
+        "tenant_name": "Gyant Group",
+        "lease_start_date": "Jul-20",
+        "term_months": 61,
+        "lease_type": "Gross",
+        "tenant_size": 3027,
+        "base_rent_psf": "$84.00",
+        "free_rent_months": 1,
+        "ti_psf": "$0.00"
+      },
+      {
+        "property_name_location": "21 South Park Street, San Francisco, CA",
+        "tenant_name": "GGV Management LLC",
+        "lease_start_date": "Jul-20",
+        "term_months": 60,
+        "lease_type": "Gross",
+        "tenant_size": 6000,
+        "base_rent_psf": "$115.00",
+        "free_rent_months": 2,
+        "ti_psf": "$0.00"
+      },
+      {
+        "property_name_location": "Gunps Building, San Francisco, CA",
+        "tenant_name": "App Annie",
+        "lease_start_date": "Jul-20",
+        "term_months": 84,
+        "lease_type": "Gross",
+        "tenant_size": 26154,
+        "base_rent_psf": "$80.00",
+        "free_rent_months": 2,
+        "ti_psf": "$100.00"
+      }
+    ],
+    "comparable_pdr_leases": [
+      {
+        "property_name_location": "360 Spear, San Francisco, CA",
+        "tenant_name": "Vitalant",
+        "lease_start_date": "Nov-21",
+        "term_months": 103,
+        "lease_type": "Gross",
+        "tenant_size": 33317,
+        "base_rent_psf": "$75.00",
+        "free_rent_months": 6,
+        "ti_psf": "$150.00"
+      },
+      {
+        "property_name_location": "The Iron Building, San Francisco, CA",
+        "tenant_name": "Ideo Inc",
+        "lease_start_date": "Dec-20",
+        "term_months": 144,
+        "lease_type": "Gross",
+        "tenant_size": 88000,
+        "base_rent_psf": "$63.00",
+        "free_rent_months": 7,
+        "ti_psf": "$85.00"
+      },
+      {
+        "property_name_location": "3030 17th Street, San Francisco, CA",
+        "tenant_name": "Fisker",
+        "lease_start_date": "Oct-20",
+        "term_months": 30,
+        "lease_type": "Gross",
+        "tenant_size": 10752,
+        "base_rent_psf": "$60.00",
+        "free_rent_months": 0,
+        "ti_psf": "$0.00"
+      },
+      {
+        "property_name_location": "113 Slimson Street, San Francisco, CA",
+        "tenant_name": "Zerocater",
+        "lease_start_date": "Jan-20",
+        "term_months": 48,
+        "lease_type": "Gross",
+        "tenant_size": 8500,
+        "base_rent_psf": "$75.00",
+        "free_rent_months": 0,
+        "ti_psf": "$0.00"
+      },
+      {
+        "property_name_location": "2 Henry Adams Street, San Francisco, CA",
+        "tenant_name": "Samsara",
+        "lease_start_date": "Aug-19",
+        "term_months": 130,
+        "lease_type": "Gross",
+        "tenant_size": 102667,
+        "base_rent_psf": "$66.00",
+        "free_rent_months": 10,
+        "ti_psf": "$115.00"
+      },
+      {
+        "property_name_location": "1301 Folsom Street, San Francisco, CA",
+        "tenant_name": "Molekule",
+        "lease_start_date": "Apr-19",
+        "term_months": 84,
+        "lease_type": "Gross",
+        "tenant_size": 38042,
+        "base_rent_psf": "$66.00",
+        "free_rent_months": 0,
+        "ti_psf": "$100.00"
+      },
+      {
+        "property_name_location": "1155 Bryant Street, San Francisco, CA",
+        "tenant_name": "Juul",
+        "lease_start_date": "Apr-19",
+        "term_months": 60,
+        "lease_type": "Gross",
+        "tenant_size": 30000,
+        "base_rent_psf": "$65.00",
+        "free_rent_months": 0,
+        "ti_psf": "$0.00"
+      }
+    ],
+    "comparable_carrier_hotel_data_center_sales": [
+      {
+        "property_name_location": "360 Spear, San Francisco, CA",
+        "year_built_renovated": "1924 / 2000",
+        "transaction_date": "Dec-20",
+        "rentable_area_sf": 179277,
+        "occupancy": "100.0%",
+        "sales_price": "$165,468,922",
+        "sales_price_psf": "$923"
+      },
+      {
+        "property_name_location": "Confidential",
+        "year_built_renovated": "1914 / 2001",
+        "transaction_date": "Dec-20",
+        "rentable_area_sf": 300000,
+        "occupancy": "72%",
+        "sales_price": "$360,000,000",
+        "sales_price_psf": "$1,200"
+      },
+      {
+        "property_name_location": "Confidential",
+        "year_built_renovated": "1923 / Various",
+        "transaction_date": "Apr-20",
+        "rentable_area_sf": 110000,
+        "occupancy": "94%",
+        "sales_price": "$100,000,000",
+        "sales_price_psf": "$909"
+      },
+      {
+        "property_name_location": "Confidential",
+        "year_built_renovated": "1881 / 2013",
+        "transaction_date": "Jan-20",
+        "rentable_area_sf": 400000,
+        "occupancy": "90%",
+        "sales_price": "$750,000,000",
+        "sales_price_psf": "$1,875"
+      },
+      {
+        "property_name_location": "Dallas Infomart, Dallas, TX",
+        "year_built_renovated": "1985 / Various",
+        "transaction_date": "Feb-18",
+        "rentable_area_sf": 1600000,
+        "occupancy": "90%",
+        "sales_price": "$800,000,000",
+        "sales_price_psf": "$500"
+      },
+      {
+        "property_name_location": "KOMO Plaza, Seattle, WA",
+        "year_built_renovated": "2000 / 2007",
+        "transaction_date": "Dec-16",
+        "rentable_area_sf": 297327,
+        "occupancy": "91%",
+        "sales_price": "$276,000,000",
+        "sales_price_psf": "$928"
+      }
+    ]
+  },
+  "n2450-x2": {
+    "loan_id": "n2450-x2",
+    "file_name": "n2450-x2_prets.png",
+    "mortgage_loan_information": {
+      "mortgage_loan_seller": "JPMCB",
+      "original_principal_balance": 66000000,
+      "cut_off_date_principal_balance": 66000000,
+      "percent_of_pool_by_ipb": 5.7,
+      "loan_purpose": "Acquisition",
+      "borrower": "1547 CSR - Pittock Block, LLC",
+      "loan_sponsor": "1547 Data Center Real Estate Fund II, L.P.",
+      "interest_rate_percent": 3.299404,
+      "note_date": "2020-12-30",
+      "maturity_date": "2031-01-01",
+      "interest_only_period_months": 120,
+      "original_term_months": 120,
+      "original_amortization": "None",
+      "amortization_type": "Interest Only",
+      "call_protection": "L(4), Gtr1YorYM(112), Q(4)",
+      "lockbox_cash_management": "Hard / Springing",
+      "additional_debt": {
+        "additional_debt_yes_no": "Yes",
+        "additional_debt_balance": "$75,000,000 / $22,470,000",
+        "additional_debt_type": "Pari Passu / Subordinate"
+      }
+    },
+    "property_information": {
+      "tenant": "Zayo / Integra Telecom Holdings, Inc",
+      "single_asset_portfolio": "Single Asset",
+      "title": "Fee",
+      "property_type_subtype": "Mixed Use",
+      "net_rentable_area_sf": 297698,
+      "location": "Portland, OR",
+      "year_built_renovated": "1913 / 2001",
+      "occupancy_percent": 71.4,
+      "occupancy_date": "2020-12-21",
+      "number_of_tenants": 51,
+      "noi_history": {
+        "2017": 9628702,
+        "2018": 9078443,
+        "2019": 10019815,
+        "ttm_as_of_11_2020": 11047438
+      },
+      "uw_economic_occupancy_percent": 72.5,
+      "uw_revenues": 18158626,
+      "uw_expenses": 5574346,
+      "uw_noi": 12584281,
+      "uw_ncf": 11780493,
+      "appraised_value": 329000000,
+      "appraised_value_per_sf": 1105,
+      "appraisal_date": "2020-12-07"
+    },
+    "escrows_and_reserves": {
+      "taxes": {
+        "initial": 0,
+        "monthly": "Springing",
+        "initial_cap": "N/A"
+      },
+      "insurance": {
+        "initial": 0,
+        "monthly": "Springing",
+        "initial_cap": "N/A"
+      },
+      "replacement_reserves": {
+        "initial": 0,
+        "monthly": "Springing",
+        "initial_cap": "N/A"
+      },
+      "tILC": {
+        "initial": 0,
+        "monthly": "Springing",
+        "initial_cap": "N/A"
+      },
+      "other": {
+        "initial": 9012030,
+        "monthly": 0,
+        "initial_cap": "N/A"
+      }
+    },
+    "financial_information": {
+      "cut_off_date_loan_per_sf": {
+        "senior_notes": 474,
+        "whole_loan": 549
+      },
+      "maturity_date_loan_per_sf": {
+        "senior_notes": 474,
+        "whole_loan": 549
+      },
+      "cut_off_date_ltv_percent": {
+        "senior_notes": 42.9,
+        "whole_loan": 49.7
+      },
+      "maturity_date_ltv_percent": {
+        "senior_notes": 42.9,
+        "whole_loan": 49.7
+      },
+      "uw_ncf_dscr": {
+        "senior_notes": 2.5,
+        "whole_loan": 1.95
+      },
+      "uw_noi_debt_yield_percent": {
+        "senior_notes": 8.9,
+        "whole_loan": 7.7
+      }
+    },
+    "sources_and_uses": {
+      "sources": {
+        "senior_notes": {
+          "amount": 141000000,
+          "percent_of_total": 41.6
+        },
+        "subordinate_debt_amount": {
+          "amount": 22470000,
+          "percent_of_total": 6.6
+        },
+        "principal_new_cash_contribution": {
+          "amount": 175849656,
+          "percent_of_total": 51.8
+        },
+        "total_sources": 339319656
+      },
+      "uses": {
+        "purchase_price": {
+          "amount": 326000000,
+          "percent_of_total": 96.1
+        },
+        "holdback_reserve": {
+          "amount": 7500000,
+          "percent_of_total": 2.2
+        },
+        "closing_costs": {
+          "amount": 4507636,
+          "percent_of_total": 1.3
+        },
+        "upfront_reserves": {
+          "amount": 1512030,
+          "percent_of_total": 0.4
+        },
+        "total_uses": 339319656
+      }
+    },
+    "whole_loan_summary": {
+      "notes": [
+        {
+          "note": "Note A-1",
+          "original_balance": 75000000,
+          "cut_off_date_balance": 75000000,
+          "note_holder": "Benchmark 2021-B23",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "Note A-2, Note A-3",
+          "original_balance": 66000000,
+          "cut_off_date_balance": 66000000,
+          "note_holder": "Benchmark 2021-B24",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "Total Senior Notes",
+          "original_balance": 141000000,
+          "cut_off_date_balance": 141000000
+        },
+        {
+          "note": "Note B",
+          "original_balance": 22470000,
+          "cut_off_date_balance": 22470000,
+          "note_holder": "Unaffiliated Third Party Investor",
+          "controlling_piece": "Yes*"
+        }
+      ],
+      "whole_loan": {
+        "original_balance": 163470000,
+        "cut_off_date_balance": 163470000
+      },
+      "footnote": "The holder of the Pittock Block Junior Note will have the right to appoint the special servicer of the Pittock Block Whole Loan and to direct certain decisions with respect to the Pittock Block Whole Loan, unless a control appraisal event exists under the related co-lender agreement; after the occurrence of a control appraisal event with respect to the Pittock Block Junior Note, the holder of the Pittock Block Note A-1 will have such rights."
+    },
+    "appraisal_concluded_market_rent": {
+      "retail": 35.0,
+      "prime_retail": 40.0,
+      "office_floors_1_2": 25.0,
+      "office_floors_3_4": 26.0,
+      "office_floors_5_6": 27.0,
+      "office_floors_7_8": 28.0,
+      "office_telco_nnn_powered_shell": 70.0,
+      "source": "Appraisal"
+    },
+    "comparable_office_leases": {
+      "source": "Appraisal",
+      "leases": [
+        {
+          "property": "610 SW Broadway",
+          "tenant_name": "Oregon CUB",
+          "lease_start_date": "Sep-20",
+          "term_months": 60,
+          "lease_type": "Full Service",
+          "tenant_size_sf": 2100,
+          "base_rent_psf": 23.25,
+          "free_rent_months": 0,
+          "ti_psf": 0.0
+        },
+        {
+          "property": "Power + Light Building",
+          "tenant_name": "Coinbase, Inc",
+          "lease_start_date": "Jul-20",
+          "term_months": 72,
+          "lease_type": "NNN",
+          "tenant_size_sf": 16347,
+          "base_rent_psf": 29.5,
+          "free_rent_months": 0,
+          "ti_psf": 25.0
+        },
+        {
+          "property": "Wilcox Building",
+          "tenant_name": "Biztech People",
+          "lease_start_date": "Jul-20",
+          "term_months": 72,
+          "lease_type": "Full Service",
+          "tenant_size_sf": 2000,
+          "base_rent_psf": 20.81,
+          "free_rent_months": 6,
+          "ti_psf": 30.0
+        },
+        {
+          "property": "Broadway Tower",
+          "tenant_name": "AARP",
+          "lease_start_date": "Jun-20",
+          "term_months": 55,
+          "lease_type": "Full Service",
+          "tenant_size_sf": 5509,
+          "base_rent_psf": 35.0,
+          "free_rent_months": 5,
+          "ti_psf": 27.5
+        },
+        {
+          "property": "Jeffrey Center",
+          "tenant_name": "Education Tour Center",
+          "lease_start_date": "May-20",
+          "term_months": 48,
+          "lease_type": "NNN",
+          "tenant_size_sf": 1348,
+          "base_rent_psf": 25.0,
+          "free_rent_months": 1,
+          "ti_psf": 17.5
+        }
+      ],
+      "total_tenant_size_sf": 27304,
+      "weighted_avg_base_rent_psf": 29.27,
+      "weighted_avg_ti_psf": 23.58,
+      "weighted_avg_term_months": 66
+    },
+    "comparable_retail_leases": {
+      "source": "Appraisal",
+      "leases": [
+        {
+          "property": "300 NW 14th Avenue",
+          "tenant_name": "US Outdoor",
+          "lease_start_date": "Sep-20",
+          "term_months": 48,
+          "lease_type": "NNN",
+          "tenant_size_sf": 9076,
+          "base_rent_psf": 24.0,
+          "free_rent_months": 0,
+          "ti_psf": 0.0
+        },
+        {
+          "property": "Jackson Tower",
+          "tenant_name": "Crafty Wonderland",
+          "lease_start_date": "Apr-20",
+          "term_months": 48,
+          "lease_type": "NNN",
+          "tenant_size_sf": 1447,
+          "base_rent_psf": 23.99,
+          "free_rent_months": 0,
+          "ti_psf": 12.5
+        },
+        {
+          "property": "Mohawk Gallery Building",
+          "tenant_name": "Yamhill Pub",
+          "lease_start_date": "Mar-20",
+          "term_months": 60,
+          "lease_type": "NNN",
+          "tenant_size_sf": 13968,
+          "base_rent_psf": 40.0,
+          "free_rent_months": 0,
+          "ti_psf": 35.0
+        },
+        {
+          "property": "Pioneer Square",
+          "tenant_name": "Yong Kang Noodle House",
+          "lease_start_date": "Mar-20",
+          "term_months": 72,
+          "lease_type": "NNN",
+          "tenant_size_sf": 3900,
+          "base_rent_psf": 38.0,
+          "free_rent_months": 2,
+          "ti_psf": 28.0
+        },
+        {
+          "property": "The Pacific Building",
+          "tenant_name": "Christian Reading Room",
+          "lease_start_date": "Jan-20",
+          "term_months": 60,
+          "lease_type": "NNN",
+          "tenant_size_sf": 950,
+          "base_rent_psf": 28.0,
+          "free_rent_months": 0,
+          "ti_psf": 8.0
+        }
+      ],
+      "total_tenant_size_sf": 28741,
+      "weighted_avg_base_rent_psf": 33.52,
+      "weighted_avg_ti_psf": 20.85,
+      "weighted_avg_term_months": 57
+    },
+    "occupancy_history": {
+      "2017": 82.8,
+      "2018": 85.7,
+      "2019": 88.7,
+      "current": 71.4,
+      "footnotes": {
+        "1": "Historical occupancies are as of December 31 of each respective year.",
+        "2": "Occupancy figures shown exclude the Portland NAP.",
+        "3": "The change in occupancy from 2019 to Current Occupancy is primarily attributable to an office tenant occupying approximately 19,228 square feet vacating in November 2020.",
+        "4": "Based on the underwritten rent roll dated December 21, 2020."
+      }
+    },
+    "top_largest_tenants_by_ubr": {
+      "as_of_date": "2020-12-21",
+      "tenants": [
+        {
+          "tenant": "Zayo / Integra Telecom Holdings, Inc.",
+          "property_type": "Telco/NNN Powered Shell",
+          "rating": "Caa1/NR/B",
+          "net_rentable_area_sf": 5616,
+          "percent_of_total_nra": 2.6,
+          "base_rent_psf": 72.1,
+          "percent_of_total_base_rent": 9.6,
+          "lease_expiration_date": "2030-08-31",
+          "renewal_extension_options": "None"
+        },
+        {
+          "tenant": "Hennebery Eddy Architects(5)",
+          "property_type": "Office",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 16366,
+          "percent_of_total_nra": 7.6,
+          "base_rent_psf": 28.87,
+          "percent_of_total_base_rent": 8.1,
+          "lease_expiration_date": "2027-07-31",
+          "renewal_extension_options": "1-year option"
+        },
+        {
+          "tenant": "LS Networks(6)",
+          "property_type": "Office",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 15385,
+          "percent_of_total_nra": 7.1,
+          "base_rent_psf": 22.34,
+          "percent_of_total_base_rent": 8.0,
+          "lease_expiration_date": "2021-07-31",
+          "renewal_extension_options": "None"
+        },
+        {
+          "tenant": "Spectra Symbol(7)",
+          "property_type": "Office",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 11136,
+          "percent_of_total_nra": 5.2,
+          "base_rent_psf": 24.5,
+          "percent_of_total_base_rent": 4.6,
+          "lease_expiration_date": "2023-10-31",
+          "renewal_extension_options": "None"
+        },
+        {
+          "tenant": "DCI - D\u2019Amato, Conversano, Inc.",
+          "property_type": "Office",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 10800,
+          "percent_of_total_nra": 5.0,
+          "base_rent_psf": 32.31,
+          "percent_of_total_base_rent": 6.0,
+          "lease_expiration_date": "2026-03-31",
+          "renewal_extension_options": "5-year option"
+        },
+        {
+          "tenant": "Peaberry Software",
+          "property_type": "Office",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 10000,
+          "percent_of_total_nra": 4.6,
+          "base_rent_psf": 26.04,
+          "percent_of_total_base_rent": 4.4,
+          "lease_expiration_date": "2025-04-30",
+          "renewal_extension_options": "1-year option"
+        },
+        {
+          "tenant": "SAABS",
+          "property_type": "Office",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 8936,
+          "percent_of_total_nra": 4.1,
+          "base_rent_psf": 34.0,
+          "percent_of_total_base_rent": 5.4,
+          "lease_expiration_date": "2025-04-30",
+          "renewal_extension_options": "5-year option"
+        },
+        {
+          "tenant": "WCI Cable(9)",
+          "property_type": "Telco/NNN Powered Shell",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 2850,
+          "percent_of_total_nra": 1.3,
+          "base_rent_psf": 45.82,
+          "percent_of_total_base_rent": 3.1,
+          "lease_expiration_date": "2029-10-31",
+          "renewal_extension_options": "None"
+        },
+        {
+          "tenant": "Crowdsourced, Inc(10)",
+          "property_type": "Office",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 1200,
+          "percent_of_total_nra": 0.6,
+          "base_rent_psf": 28.04,
+          "percent_of_total_base_rent": 0.6,
+          "lease_expiration_date": "2025-06-30",
+          "renewal_extension_options": "None"
+        }
+      ],
+      "other_occupied": {
+        "net_rentable_area_sf": 65965,
+        "percent_of_total_nra": 32.3,
+        "base_rent_psf": 25.48,
+        "percent_of_total_base_rent": 41.5
+      },
+      "totals": {
+        "total_occupied_nra_sf": 154014,
+        "total_occupied_percent_nra": 71.4,
+        "total_base_rent_psf": 27.78,
+        "total_percent_base_rent": 100.0
+      },
+      "vacant_nra_sf": 61713,
+      "vacant_percent_nra": 28.6,
+      "total_nra_sf": 215727,
+      "footnotes": [
+        "Based on the underwritten rent roll dated December 21, 2020.",
+        "Ratings presented are those of the parent company of the entity shown, whether or not the parent company guarantees the lease.",
+        "UW Base Rent, % of Total Base Rent and Base Rent PSF includes rent steps through December 2021 and 10% haircuts for tenants that are currently experiencing rent relief.",
+        "Zayo / Integra Telecom Holdings, Inc. has a Telco lease and the Pittock Block property, which is for suites in the building that have additional power and cooling supply compared to general office/retail suites.",
+        "Hennebery Eddy Architects leases 13,666 square feet of which (1) 13,522 square feet is office space leased for $28.84 per square foot and is set to expire in July 2027 and (ii) 144 square feet is storage space leased for approximately $7.59 per square foot on a month-to-month basis.",
+        "LS Networks leases 15,238 square feet of which (i) 14,821 square feet is office space leased for $22.73 per square foot and is set to expire in July 2021 and (ii) 417 square feet is storage space leased for approximately $8.49 per square foot on a month-to-month basis.",
+        "Spectra Symbol, Inc. leases 11,936 square feet of which (i) 11,850 square feet is office space leased for $24.73 per square foot and is set to expire in March 2023 and (ii) 86 square feet is storage space leased for approximately $6.28 per square foot on a month-to-month basis.",
+        "Gregory Company leases 10,701 square feet of which (i) 10,229 square feet is office space leased for $25.34 per square foot and is set to expire in October 2023 and (ii) 472 square feet is storage space leased for approximately $6.23 per square foot on a month-to-month basis.",
+        "WCI Cable leases 2,850 square feet of office space set to expire in October 2029 of which (i) 2,000 square feet is leased for $43.83 per square foot and (ii) 850 square feet is leased for $50.98 per square foot.",
+        "Crowdsourced, Inc has the one-time right to terminate its lease effective June 30, 2023 with 12 months prior written notice and payment of an early termination fee of $64,680.",
+        "Other Occupied includes multiple tenants not individually listed."
+      ]
+    },
+    "top_colocation_tenants": {
+      "as_of_date": "2020-12-21",
+      "tenants": [
+        {
+          "tenant": "Fortune 10 Technology Company(3)",
+          "rating": "A2/A+/A-",
+          "ubr_colocation_cross_connect_rent": 2221140,
+          "percent_total_colocation_rent": 18.2,
+          "lease_expiration_date": "MTM"
+        },
+        {
+          "tenant": "Facebook(4)",
+          "rating": "NR/NR/NR",
+          "ubr_colocation_cross_connect_rent": 1983000,
+          "percent_total_colocation_rent": 16.2,
+          "lease_expiration_date": "2025-01-31"
+        },
+        {
+          "tenant": "Multi-National Corporation",
+          "rating": "NR/NR/NR",
+          "ubr_colocation_cross_connect_rent": 1128060,
+          "percent_total_colocation_rent": 9.2,
+          "lease_expiration_date": "MTM"
+        },
+        {
+          "tenant": "Zayo(5)",
+          "rating": "Caa1/NR/B",
+          "ubr_colocation_cross_connect_rent": 901488,
+          "percent_total_colocation_rent": 7.4,
+          "lease_expiration_date": "2022-12-31"
+        },
+        {
+          "tenant": "Charter",
+          "rating": "Baa2/NR/BBB+",
+          "ubr_colocation_cross_connect_rent": 668552,
+          "percent_total_colocation_rent": 5.5,
+          "lease_expiration_date": "MTM"
+        },
+        {
+          "tenant": "Wave",
+          "rating": "Caa1/NR/B",
+          "ubr_colocation_cross_connect_rent": 360540,
+          "percent_total_colocation_rent": 3.0,
+          "lease_expiration_date": "MTM"
+        },
+        {
+          "tenant": "Centurylink",
+          "rating": "B3/B/BB",
+          "ubr_colocation_cross_connect_rent": 344340,
+          "percent_total_colocation_rent": 2.8,
+          "lease_expiration_date": "MTM"
+        },
+        {
+          "tenant": "Axiom Data Science",
+          "rating": "NR/NR/NR",
+          "ubr_colocation_cross_connect_rent": 241380,
+          "percent_total_colocation_rent": 2.0,
+          "lease_expiration_date": "MTM"
+        },
+        {
+          "tenant": "CN Servers",
+          "rating": "NR/NR/NR",
+          "ubr_colocation_cross_connect_rent": 208240,
+          "percent_total_colocation_rent": 1.7,
+          "lease_expiration_date": "MTM"
+        },
+        {
+          "tenant": "AT&T",
+          "rating": "Baa2/A-/BBB",
+          "ubr_colocation_cross_connect_rent": 207620,
+          "percent_total_colocation_rent": 1.7,
+          "lease_expiration_date": "MTM"
+        }
+      ],
+      "totals": {
+        "top_10_colocation_rent": 8270340,
+        "top_10_percent": 67.7,
+        "remaining_colocation_tenants_rent": 3950820,
+        "remaining_percent": 32.3,
+        "total_colocation_rent": 12221160
+      },
+      "footnotes": [
+        "Based on the underwritten rent roll dated December 21, 2020.",
+        "Ratings are those of the parent company, whether or not they guarantee the lease.",
+        "Fortune 10 tenant includes new license agreement worth $837,000.",
+        "Facebook has 5 license agreements: 3 expiring Jan 2025, 1 MTM ($525,600), 1 MTM ($174,840).",
+        "Zayo has 7 licenses: 1 exp. Dec 2022 ($364,152), 3 MTM ($174,840), 2 exp. Mar 2021 ($127,296), 1 exp. Jul 2021 ($122,400), 1 exp. Apr 2021 ($112,800)."
+      ]
+    },
+    "lease_rollover_schedule": {
+      "as_of_date": "2020-12-21",
+      "schedule": [
+        {
+          "year": "Vacant",
+          "number_of_leases_expiring": null,
+          "net_rentable_area_expiring": null,
+          "percent_nra_expiring": null,
+          "cumulative_percent_nra_expiring": null,
+          "cumulative_base_rent_expiring": null,
+          "cumulative_percent_base_rent_expiring": null
+        },
+        {
+          "year": "2021 & MTM",
+          "number_of_leases_expiring": 43,
+          "net_rentable_area_expiring": 48624,
+          "percent_nra_expiring": 22.5,
+          "cumulative_percent_nra_expiring": 51.2,
+          "cumulative_base_rent_expiring": 1160927,
+          "cumulative_percent_base_rent_expiring": 27.1
+        },
+        {
+          "year": "2022",
+          "number_of_leases_expiring": 9,
+          "net_rentable_area_expiring": 24301,
+          "percent_nra_expiring": 11.3,
+          "cumulative_percent_nra_expiring": 62.4,
+          "cumulative_base_rent_expiring": 1776133,
+          "cumulative_percent_base_rent_expiring": 40.1
+        },
+        {
+          "year": "2023",
+          "number_of_leases_expiring": 7,
+          "net_rentable_area_expiring": 30575,
+          "percent_nra_expiring": 14.4,
+          "cumulative_percent_nra_expiring": 76.8,
+          "cumulative_base_rent_expiring": 2573592,
+          "cumulative_percent_base_rent_expiring": 60.2
+        },
+        {
+          "year": "2024",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 553,
+          "percent_nra_expiring": 0.3,
+          "cumulative_percent_nra_expiring": 77.1,
+          "cumulative_base_rent_expiring": 2588800,
+          "cumulative_percent_base_rent_expiring": 60.5
+        },
+        {
+          "year": "2025",
+          "number_of_leases_expiring": 6,
+          "net_rentable_area_expiring": 17017,
+          "percent_nra_expiring": 7.9,
+          "cumulative_percent_nra_expiring": 84.9,
+          "cumulative_base_rent_expiring": 3046711,
+          "cumulative_percent_base_rent_expiring": 71.2
+        },
+        {
+          "year": "2026",
+          "number_of_leases_expiring": 2,
+          "net_rentable_area_expiring": 8481,
+          "percent_nra_expiring": 3.9,
+          "cumulative_percent_nra_expiring": 88.9,
+          "cumulative_base_rent_expiring": 3374471,
+          "cumulative_percent_base_rent_expiring": 78.6
+        },
+        {
+          "year": "2027",
+          "number_of_leases_expiring": 2,
+          "net_rentable_area_expiring": 13222,
+          "percent_nra_expiring": 6.3,
+          "cumulative_percent_nra_expiring": 95.1,
+          "cumulative_base_rent_expiring": 3737445,
+          "cumulative_percent_base_rent_expiring": 87.3
+        },
+        {
+          "year": "2028",
+          "number_of_leases_expiring": 0,
+          "net_rentable_area_expiring": 0,
+          "percent_nra_expiring": 0.0,
+          "cumulative_percent_nra_expiring": 95.1,
+          "cumulative_base_rent_expiring": 3737445,
+          "cumulative_percent_base_rent_expiring": 87.3
+        },
+        {
+          "year": "2029",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 2850,
+          "percent_nra_expiring": 1.3,
+          "cumulative_percent_nra_expiring": 96.4,
+          "cumulative_base_rent_expiring": 3882445,
+          "cumulative_percent_base_rent_expiring": 90.8
+        },
+        {
+          "year": "2030",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 5896,
+          "percent_nra_expiring": 2.6,
+          "cumulative_percent_nra_expiring": 99.1,
+          "cumulative_base_rent_expiring": 4278732,
+          "cumulative_percent_base_rent_expiring": 100.0
+        },
+        {
+          "year": "2031",
+          "number_of_leases_expiring": 0,
+          "net_rentable_area_expiring": 0,
+          "percent_nra_expiring": 0.0,
+          "cumulative_percent_nra_expiring": 99.1,
+          "cumulative_base_rent_expiring": 4278732,
+          "cumulative_percent_base_rent_expiring": 100.0
+        },
+        {
+          "year": "2032 and Thereafter(3)",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 2000,
+          "percent_nra_expiring": 0.9,
+          "cumulative_percent_nra_expiring": 100.0,
+          "cumulative_base_rent_expiring": 4278732,
+          "cumulative_percent_base_rent_expiring": 100.0
+        }
+      ],
+      "footnotes": [
+        "Based on the underwritten rent roll dated December 21, 2020.",
+        "Certain tenants may have termination or contraction options not considered in the above Lease Rollover Schedule.",
+        "2032 and Thereafter includes a 2,000 SF management office with no underwritten base rent."
+      ]
+    },
+    "underwritten_net_cash_flow": {
+      "base_rent": {
+        "2017": 3431224,
+        "2018": 4027867,
+        "2019": 4359091,
+        "ttm_11302020": 4368598,
+        "underwritten": 4278732,
+        "per_sf": 14.37,
+        "percent_of_egi": 23.6
+      },
+      "vacant_income": {
+        "underwritten": 1622923,
+        "per_sf": 5.45,
+        "percent_of_egi": 9.0
+      },
+      "gross_potential_rent": {
+        "2017": 3431224,
+        "2018": 4027867,
+        "2019": 4359091,
+        "ttm_11302020": 4368598,
+        "underwritten": 5901655,
+        "per_sf": 19.82,
+        "percent_of_egi": 32.5
+      },
+      "total_reimbursements": {
+        "2017": 3113064,
+        "2018": 3963948,
+        "2019": 4167474,
+        "ttm_11302020": 4168598,
+        "underwritten": 5431254,
+        "per_sf": 18.24,
+        "percent_of_egi": 30.0
+      },
+      "colocation_income": {
+        "2017": 6311688,
+        "2018": 9622944,
+        "2019": 9568974,
+        "ttm_11302020": 10209580,
+        "underwritten": 12215118,
+        "per_sf": 40.99,
+        "percent_of_egi": 67.3
+      },
+      "cross_connect_income": {
+        "2017": 1833833,
+        "2018": 2004128,
+        "2019": 2215568,
+        "ttm_11302020": 2328786,
+        "underwritten": 2577500,
+        "per_sf": 8.65,
+        "percent_of_egi": 14.0
+      },
+      "connection_income": {
+        "2017": 477927,
+        "2018": 328161,
+        "2019": 396262,
+        "ttm_11302020": 1162438,
+        "underwritten": 1352950,
+        "per_sf": 4.54,
+        "percent_of_egi": 7.5
+      },
+      "circuit_fee_income": {
+        "2019": 91475,
+        "ttm_11302020": 151225,
+        "underwritten": 95348,
+        "per_sf": 0.32,
+        "percent_of_egi": 0.5
+      },
+      "vacancy_credit_loss": {
+        "ttm_11302020": -689809,
+        "underwritten": -1906512,
+        "per_sf": -6.41,
+        "percent_of_egi": -10.5
+      },
+      "concessions": {
+        "underwritten": 0,
+        "per_sf": 0.0,
+        "percent_of_egi": 0.0
+      },
+      "effective_gross_income": {
+        "2017": 13166409,
+        "2018": 14107319,
+        "2019": 15557144,
+        "ttm_11302020": 16674000,
+        "underwritten": 18158626,
+        "per_sf": 60.99
+      },
+      "operating_expenses": {
+        "real_estate_taxes": {
+          "2017": 517396,
+          "2018": 5661203,
+          "2019": 619531,
+          "ttm_11302020": 651203,
+          "underwritten": 631607,
+          "per_sf": 2.06,
+          "percent_of_egi": 3.5
+        },
+        "insurance": {
+          "2017": 194399,
+          "2018": 254275,
+          "2019": 268359,
+          "ttm_11302020": 289041,
+          "underwritten": 284500,
+          "per_sf": 0.93,
+          "percent_of_egi": 1.6
+        },
+        "management_fee": {
+          "2017": 614116,
+          "2018": 423220,
+          "2019": 496714,
+          "ttm_11302020": 400238,
+          "underwritten": 544759,
+          "per_sf": 1.83,
+          "percent_of_egi": 3.0
+        },
+        "other_operating_expenses": {
+          "2017": 2217262,
+          "2018": 3798178,
+          "2019": 3865073,
+          "ttm_11302020": 4076679,
+          "underwritten": 4335896,
+          "per_sf": 14.57,
+          "percent_of_egi": 23.9
+        },
+        "total_operating_expenses": {
+          "2017": 3543176,
+          "2018": 5034876,
+          "2019": 5337239,
+          "ttm_11302020": 5651726,
+          "underwritten": 5574346,
+          "per_sf": 18.72,
+          "percent_of_egi": 30.7
+        }
+      },
+      "net_operating_income": {
+        "2017": 9628702,
+        "2018": 9072443,
+        "2019": 10019815,
+        "ttm_11302020": 11047438,
+        "underwritten": 12584281,
+        "per_sf": 42.27,
+        "percent_of_egi": 69.3
+      },
+      "tilc": {
+        "underwritten": 702171,
+        "per_sf": 2.36,
+        "percent_of_egi": 3.9
+      },
+      "replacement_reserves": {
+        "underwritten": 100000,
+        "per_sf": 0.34,
+        "percent_of_egi": 0.6
+      },
+      "net_cash_flow": {
+        "2017": 9628702,
+        "2018": 9072443,
+        "2019": 10019815,
+        "ttm_11302020": 11047438,
+        "underwritten": 11780493,
+        "per_sf": 39.57,
+        "percent_of_egi": 64.9
+      },
+      "footnotes": [
+        "Certain items such as straight line rent, interest expense, interest income, lease cancellation income, depreciation, etc. were excluded.",
+        "% represents percent of Effective Gross Income.",
+        "Base Rent includes rent steps through December 2021 and 10% haircuts for tenants currently experiencing rent relief.",
+        "Increase in TTM NOI from 2019 primarily due to new Facebook license for 70 cabinets.",
+        "Increase in U/W NOI over TTM driven by Fortune 10 license for 31 cabinets."
+      ]
+    }
+  },
+  "n2711_x3": {
+    "loan_id": "n2711_x3",
+    "file_name": "n2711_x3-ts.png",
+    "loan_summary": {
+      "loan_number": null,
+      "portfolio_name": null,
+      "cut_off_balance": 44500000,
+      "cut_off_ltv": null,
+      "uw_ncf_dscr": null,
+      "uw_noi_debt_yield": null
+    },
+    "mortgage_loan_information": {
+      "loan_seller": "MSMCH",
+      "credit_assessment": {
+        "fitch": "NR",
+        "kbra": "NR",
+        "s&p": "NR"
+      },
+      "original_balance": 44500000,
+      "cut_off_balance": 44500000,
+      "%_of_initial_pool_balance": 3.5,
+      "loan_purpose": "Refinance",
+      "borrower": 
+        "DataCore Fund L.P.",
+      "guarantor": "DataCore Fund L.P.",
+      "mortgage_rate": 2.54,
+      "note_date": "2021-09-16",
+      "first_payment_date": "2021-11-01",
+      "maturity_date": "2031-10-01",
+      "original_term_to_maturity_months": 120,
+      "original_amortization_term_months": 120,
+      "io_period_months": 0,
+      "seasoning_months": 0,
+      "prepayment_provisions": "L(2/3),Y1(90),Q(7)",
+      "lockbox_cash_mgmt_status": "Hard/Springing",
+      "additional_debt_type": "NAP",
+      "additional_debt_balance": "NAP",
+      "future_debt_permitted_type": "No (NAP)"
+    },
+    "property_information": {
+      "single_asset_or_portfolio": "Single Asset",
+      "location": "Hayward, CA 94545",
+      "general_property_type": "Mixed Use",
+      "detailed_property_type": "Industrial/Office",
+      "title_vesting": "Fee",
+      "year_built_renovated": "1974-2006/NAP",
+      "size_sqft": 293292,
+      "cut_off_date_balance_psf": 152,
+      "maturity_date_balance_psf": 152,
+      "property_manager": "G&E Real Estate Management Services, Inc."
+    },
+    "underwriting_and_financial_information": {
+      "uw_noi": 4933237,
+      "uw_noi_debt_yield": 11.1,
+      "uw_noi_debt_yield_at_maturity": 11.1,
+      "uw_ncf_dscr": 3.89,
+      "noi_history": [
+        {
+          "date": "2021-06-30",
+          "value": 4357418
+        },
+        {
+          "date": "2020-12-31",
+          "value": 4051037
+        },
+        {
+          "date": "2019-12-31",
+          "value": 3906098
+        }
+      ],
+      "occupancy_history": [
+        {
+          "date": "2021-08-01",
+          "occupancy": "100.0%"
+        },
+        {
+          "date": "2020-12-31",
+          "occupancy": "90.1%"
+        },
+        {
+          "date": "2019-12-31",
+          "occupancy": "85.7%"
+        }
+      ],
+      "appraised_value": {
+        "value": 95000000,
+        "date": "2021-07-13",
+        "psf": 324
+      },
+      "ltv_ratios": {
+        "cut_off_date": 46.8,
+        "maturity_date": 46.8
+      }
+    },
+    "reserves": [
+      {
+        "type": "RE Tax",
+        "initial": 0,
+        "monthly": "Springing",
+        "cap": "N/A"
+      },
+      {
+        "type": "Insurance",
+        "initial": 0,
+        "monthly": "Springing",
+        "cap": "N/A"
+      }
+    ],
+    "sources_and_uses": {
+      "sources": [
+        {
+          "type": "Loan Amount",
+          "proceeds": 44500000,
+          "percentage_of_total": 100.0
+        }
+      ],
+      "uses": [
+        {
+          "type": "Loan Payoff",
+          "proceeds": 20216491,
+          "percentage_of_total": 45.4
+        },
+        {
+          "type": "Return of Equity",
+          "proceeds": 17731384,
+          "percentage_of_total": 39.8
+        },
+        {
+          "type": "Closing Costs",
+          "proceeds": 6542135,
+          "percentage_of_total": 14.7
+        }
+      ],
+      "total_sources": 44500000,
+      "total_uses": 44500000
+    },
+    "tenant_summary": {
+      "tenants": [
+        {
+          "name": "AT00 US",
+          "credit_rating": {
+            "fitch": "AA",
+            "kbra": "A1",
+            "s&p": "A"
+          },
+          "sf": 131896,
+          "percent_of_total_sf": 45.0,
+          "annual_uw_base_rent": 2502592,
+          "annual_uw_base_rent_psf": 18.98,
+          "percent_of_total_uw_base_rent": 46.3,
+          "lease_expiration": "2026-02-28",
+          "renewal_option": "Q3",
+          "termination_option": "Y"
+        },
+        {
+          "name": "Ultra Clean Technology",
+          "credit_rating": {
+            "fitch": "NR",
+            "kbra": "NR",
+            "s&p": "NR"
+          },
+          "sf": 103771,
+          "percent_of_total_sf": 35.4,
+          "annual_uw_base_rent": 1820592,
+          "annual_uw_base_rent_psf": 17.54,
+          "percent_of_total_uw_base_rent": 33.7,
+          "lease_expiration": "2027-12-01",
+          "renewal_option": "None",
+          "termination_option": "N"
+        },
+        {
+          "name": "Vary Bio LLC",
+          "credit_rating": {
+            "fitch": "NR",
+            "kbra": "NR",
+            "s&p": "NR"
+          },
+          "sf": 26362,
+          "percent_of_total_sf": 9.4,
+          "annual_uw_base_rent": 537091,
+          "annual_uw_base_rent_psf": 17.01,
+          "percent_of_total_uw_base_rent": 9.9,
+          "lease_expiration": "2025-08-18",
+          "renewal_option": "1 x 3 yr",
+          "termination_option": "N"
+        },
+        {
+          "name": "Delta Information Systems (Ampex Data Systems)",
+          "credit_rating": {
+            "fitch": "NR",
+            "kbra": "NR",
+            "s&p": "NR"
+          },
+          "sf": 16132,
+          "percent_of_total_sf": 5.5,
+          "annual_uw_base_rent": 250695,
+          "annual_uw_base_rent_psf": 15.54,
+          "percent_of_total_uw_base_rent": 4.6,
+          "lease_expiration": "2026-07-13",
+          "renewal_option": "2 x 5 yr",
+          "termination_option": "N"
+        },
+        {
+          "name": "Kaeno",
+          "credit_rating": {
+            "fitch": "NR",
+            "kbra": "NR",
+            "s&p": "NR"
+          },
+          "sf": 13132,
+          "percent_of_total_sf": 4.5,
+          "annual_uw_base_rent": 238996,
+          "annual_uw_base_rent_psf": 18.08,
+          "percent_of_total_uw_base_rent": 4.4,
+          "lease_expiration": "2027-05-31",
+          "renewal_option": "1 x 5 yr",
+          "termination_option": "N"
+        }
+      ],
+      "total_sf": 293292,
+      "vacant_sf": 0,
+      "total_uw_base_rent": 5400366,
+      "total_uw_base_rent_psf": 18.42
+    },
+    "lease_rollover_schedule": {
+      "rollover_by_year": [
+        {
+          "year": 2021,
+          "num_leases_rolling": 0,
+          "sf_rolling": 0,
+          "uw_base_rent_psf": 0.0,
+          "percent_of_total_sf_rolling": 0.0,
+          "cumulative_percent_sf_rolling": 0.0,
+          "total_uw_base_rent": 0,
+          "percent_of_total_rent_rolling": 0.0
+        },
+        {
+          "year": 2022,
+          "num_leases_rolling": 0,
+          "sf_rolling": 0,
+          "uw_base_rent_psf": 0.0,
+          "percent_of_total_sf_rolling": 0.0,
+          "cumulative_percent_sf_rolling": 0.0,
+          "total_uw_base_rent": 0,
+          "percent_of_total_rent_rolling": 0.0
+        },
+        {
+          "year": 2023,
+          "num_leases_rolling": 0,
+          "sf_rolling": 0,
+          "uw_base_rent_psf": 0.0,
+          "percent_of_total_sf_rolling": 0.0,
+          "cumulative_percent_sf_rolling": 0.0,
+          "total_uw_base_rent": 0,
+          "percent_of_total_rent_rolling": 0.0
+        },
+        {
+          "year": 2024,
+          "num_leases_rolling": 0,
+          "sf_rolling": 0,
+          "uw_base_rent_psf": 0.0,
+          "percent_of_total_sf_rolling": 0.0,
+          "cumulative_percent_sf_rolling": 0.0,
+          "total_uw_base_rent": 0,
+          "percent_of_total_rent_rolling": 0.0
+        },
+        {
+          "year": 2025,
+          "num_leases_rolling": 0,
+          "sf_rolling": 0,
+          "uw_base_rent_psf": 0.0,
+          "percent_of_total_sf_rolling": 0.0,
+          "cumulative_percent_sf_rolling": 0.0,
+          "total_uw_base_rent": 0,
+          "percent_of_total_rent_rolling": 0.0
+        },
+        {
+          "year": 2026,
+          "num_leases_rolling": 3,
+          "sf_rolling": 176449,
+          "uw_base_rent_psf": 18.82,
+          "percent_of_total_sf_rolling": 60.2,
+          "cumulative_percent_sf_rolling": 60.2,
+          "total_uw_base_rent": 3321454,
+          "percent_of_total_rent_rolling": 61.5
+        },
+        {
+          "year": 2027,
+          "num_leases_rolling": 2,
+          "sf_rolling": 116843,
+          "uw_base_rent_psf": 17.8,
+          "percent_of_total_sf_rolling": 39.8,
+          "cumulative_percent_sf_rolling": 100.0,
+          "total_uw_base_rent": 2079532,
+          "percent_of_total_rent_rolling": 38.5
+        }
+      ],
+      "total_sf": 293292,
+      "total_uw_base_rent": 5400986,
+      "average_uw_base_rent_psf": 18.42
+    },
+    "market_rent_summary": {
+      "data_center": {
+        "market_rent_psf": 30.0,
+        "lease_term_months": 120,
+        "lease_type": "NNN",
+        "rent_increase_projection": "3.0% per annum"
+      },
+      "office": {
+        "market_rent_psf": 18.0,
+        "lease_term_months": 60,
+        "lease_type": "NNN",
+        "rent_increase_projection": "3.0% per annum"
+      }
+    },
+    "comparable_office_lease_summary": {
+      "subject_property": {
+        "property_name": "Corporate Research Center Property",
+        "location": "Hayward, CA",
+        "tenant_name": "Ultra Clean Technology",
+        "lease_size_sf": 103711,
+        "lease_term_months": 120,
+        "rent_psf": 17.64
+      },
+      "comparable_properties": [
+        {
+          "location": "1175 Harbor Bay Pkwy, Alameda, CA",
+          "tenant_name": "Exelixis",
+          "lease_size_sf": 25749,
+          "lease_term_months": 125,
+          "rent_psf": 24.6
+        },
+        {
+          "location": "44370 Christy St, Fremont, CA",
+          "tenant_name": "Bloom Energy",
+          "lease_size_sf": 88246,
+          "lease_term_months": 84,
+          "rent_psf": 23.28
+        },
+        {
+          "location": "39600 Eureka Dr, Newark, CA",
+          "tenant_name": "TYAN",
+          "lease_size_sf": 28708,
+          "lease_term_months": 62,
+          "rent_psf": 19.68
+        },
+        {
+          "location": "4050 Starboard Dr, Fremont, CA",
+          "tenant_name": "LAM Research",
+          "lease_size_sf": 52232,
+          "lease_term_months": 48,
+          "rent_psf": 16.44
+        },
+        {
+          "location": "Fremont, CA",
+          "tenant_name": "Omron",
+          "lease_size_sf": 126790,
+          "lease_term_months": 120,
+          "rent_psf": 19.44
+        },
+        {
+          "location": "Pleasanton Industrial, Pleasanton, CA",
+          "tenant_name": "Lyncean Technologies",
+          "lease_size_sf": 25008,
+          "lease_term_months": 63,
+          "rent_psf": 16.2
+        },
+        {
+          "location": "Fremont Rsch. Center, Fremont, CA",
+          "tenant_name": "CyTek BioSciences",
+          "lease_size_sf": 19209,
+          "lease_term_months": 60,
+          "rent_psf": 18.84
+        }
+      ]
+    },
+    "comparable_data_center_lease_summary": {
+      "subject_property": {
+        "property_name": "Corporate Research Center Property",
+        "location": "Hayward, CA",
+        "tenant_name": "AT00 US",
+        "lease_size_sf": 131896,
+        "lease_term_months": 180,
+        "rent_psf": 18.98
+      },
+      "comparable_properties": [
+        {
+          "location": "Confidential, Northern California",
+          "tenant_name": "Confidential",
+          "lease_size_sf": 278500,
+          "lease_term_months": 180,
+          "rent_psf": 31.41
+        },
+        {
+          "location": "Confidential, Northern California",
+          "tenant_name": "Confidential",
+          "lease_size_sf": 120000,
+          "lease_term_months": 180,
+          "rent_psf": 42.0
+        },
+        {
+          "location": "Confidential, Northern California",
+          "tenant_name": "Confidential",
+          "lease_size_sf": 45000,
+          "lease_term_months": 240,
+          "rent_psf": 120.0
+        },
+        {
+          "location": "Confidential, Northern California",
+          "tenant_name": "Confidential",
+          "lease_size_sf": 90000,
+          "lease_term_months": 240,
+          "rent_psf": 82.0
+        },
+        {
+          "location": "Confidential, Northern California",
+          "tenant_name": "Confidential",
+          "lease_size_sf": 50000,
+          "lease_term_months": 240,
+          "rent_psf": 82.0
+        },
+        {
+          "location": "Confidential, Northern California",
+          "tenant_name": "Confidential",
+          "lease_size_sf": 279840,
+          "lease_term_months": 120,
+          "rent_psf": 35.61
+        },
+        {
+          "location": "Confidential, West Coast",
+          "tenant_name": "Confidential",
+          "lease_size_sf": 130000,
+          "lease_term_months": 180,
+          "rent_psf": 31.2
+        }
+      ]
+    },
+    "cash_flow_analysis": {
+      "years": [
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "6/30/2021 TTM",
+        "UW"
+      ],
+      "gross_potential_rent": [
+        4434655,
+        4472093,
+        4151525,
+        4503939,
+        4653966,
+        5400986
+      ],
+      "reimbursements": [
+        1130904,
+        1180198,
+        1372842,
+        1258333,
+        1454634,
+        1840379
+      ],
+      "discounts_concessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "vacancy_credit_loss": [
+        0,
+        0,
+        0,
+        -59604,
+        -86676,
+        -352068
+      ],
+      "effective_gross_income": [
+        5564659,
+        5652291,
+        5524366,
+        5703179,
+        6021924,
+        6688297
+      ],
+      "real_estate_taxes": [
+        741732,
+        707937,
+        807342,
+        830273,
+        826197,
+        826197
+      ],
+      "insurance": [
+        105495,
+        104803,
+        344223,
+        299343,
+        306544,
+        340000
+      ],
+      "other_operating_expenses": [
+        458049,
+        434202,
+        466703,
+        522525,
+        533264,
+        589866
+      ],
+      "total_operating_expenses": [
+        1305276,
+        1309242,
+        1618268,
+        1652141,
+        1664064,
+        1756062
+      ],
+      "net_operating_income": [
+        4259383,
+        4342349,
+        3906098,
+        4051037,
+        4357418,
+        4933237
+      ],
+      "capital_expenditures": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        405998
+      ],
+      "ti_lc": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        452340
+      ],
+      "net_cash_flow": [
+        4259383,
+        4342349,
+        3906098,
+        4051037,
+        4357418,
+        4452239
+      ],
+      "occupancy_percent": [
+        "95.5%",
+        "93.9%",
+        "85.7%",
+        "90.1%",
+        "100.0%",
+        "100.0%"
+      ],
+      "noi_dscr": [
+        "3.72x",
+        "3.79x",
+        "3.41x",
+        "3.53x",
+        "3.80x",
+        "4.90x"
+      ],
+      "ncf_dscr": [
+        "3.72x",
+        "3.79x",
+        "3.41x",
+        "3.53x",
+        "3.80x",
+        "3.89x"
+      ],
+      "noi_debt_yield": [
+        "9.6%",
+        "9.8%",
+        "8.8%",
+        "9.1%",
+        "9.8%",
+        "11.1%"
+      ],
+      "ncf_debt_yield": [
+        "9.6%",
+        "9.8%",
+        "8.8%",
+        "9.1%",
+        "9.8%",
+        "10.0%"
+      ]
+    }
+  },
+  "n3021-x3": {
+    "loan_id": "n3021-x3",
+    "file_name": "n3021-x3_ts.png",
+    "mortgage_loan_information": {
+      "loan_seller": "GSMC",
+      "credit_assessment": {
+        "fitch": "NR",
+        "dbrs_morningstar": "BBB(sf)",
+        "s&p": "N/A"
+      },
+      "loan_purpose": "Refinance",
+      "borrower_sponsor": "TechCore, LLC",
+      "borrower": "GI TC One Wilshire, LLC",
+      "original_balance": 85000000,
+      "cut_off_date_balance": 85000000,
+      "percent_of_initial_upb": "9.3%",
+      "interest_rate": "2.7760%",
+      "payment_date": "6th of each month",
+      "first_payment_date": "February 6, 2022",
+      "anticipated_repayment_date": "January 6, 2032",
+      "maturity_date": "January 6, 2035",
+      "amortization": "Interest Only - ARD",
+      "additional_debt": {
+        "amount": 304250000,
+        "type": "Pari Passu Debt"
+      },
+      "call_protection": "L(27),(B6),0(7)",
+      "lockbox_cash_management": "Hard / Springing"
+    },
+    "property_information": {
+      "single_asset_portfolio": "Single Asset",
+      "property_type": "CBD / Data Center Office",
+      "collateral": "Fee Simple",
+      "location": "Los Angeles, CA",
+      "year_built_renovated": "1967 / 1992",
+      "total_sq_ft": 681553,
+      "property_management": "GI Property Manager (CA) Inc.",
+      "underwritten_noi": 37510389,
+      "underwritten_ncf": 36919391,
+      "appraised_value": 913000000,
+      "appraisal_date": "November 5, 2021"
+    },
+    "historical_noi": {
+      "most_recent": {
+        "amount": 35857157,
+        "date": "September 30, 2021",
+        "period": "T-12"
+      },
+      "2020": {
+        "amount": 34570190,
+        "date": "December 31, 2020"
+      },
+      "2019": {
+        "amount": 31610306,
+        "date": "December 31, 2019"
+      },
+      "2018": {
+        "amount": 29471312,
+        "date": "December 31, 2018"
+      }
+    },
+    "historical_occupancy": {
+      "most_recent": {
+        "percent": "87.3%",
+        "date": "November 1, 2021"
+      },
+      "2020": {
+        "percent": "89.4%",
+        "date": "December 31, 2020"
+      },
+      "2019": {
+        "percent": "90.3%",
+        "date": "December 31, 2019"
+      },
+      "2018": {
+        "percent": "86.6%",
+        "date": "December 31, 2018"
+      }
+    },
+    "reserves": {
+      "taxes": {
+        "initial": "$0",
+        "monthly": "Springing",
+        "cap": "NAP"
+      },
+      "insurance": {
+        "initial": "$0",
+        "monthly": "Springing",
+        "cap": "NAP"
+      },
+      "replacement_capex": {
+        "initial": "$0",
+        "monthly": "Springing",
+        "cap": "NAP"
+      },
+      "tI_lC": {
+        "initial": "$0",
+        "monthly": "Springing",
+        "cap": "NAP"
+      }
+    },
+    "financial_information": {
+      "tranches": [
+        {
+          "type": "Mortgage Loan",
+          "cut_off_date_balance": 85000000
+        },
+        {
+          "type": "Pari Passu Notes",
+          "cut_off_date_balance": 304250000
+        }
+      ],
+      "whole_loan": {
+        "total_balance": 389250000,
+        "balance_per_sq_ft": {
+          "cut_off": "$588",
+          "balloon": "$588"
+        },
+        "ltv": {
+          "cut_off": "42.6%",
+          "balloon": "42.6%"
+        },
+        "uw_dscr": {
+          "noi": "3.42x",
+          "ncf": "3.37x"
+        },
+        "uw_debt_yield": {
+          "cut_off": {
+            "noi": "9.6%",
+            "ncf": "9.5%"
+          },
+          "balloon": {
+            "noi": "9.6%",
+            "ncf": "9.5%"
+          }
+        }
+      }
+    },
+    "whole_loan_summary": {
+      "notes": [
+        {
+          "note": "A-1",
+          "original_balance": 90000000,
+          "cut_off_date_balance": 90000000,
+          "note_holders": "Benchmark 2022-B32",
+          "controlling_piece": "Yes"
+        },
+        {
+          "note": "A-2",
+          "original_balance": 80000000,
+          "cut_off_date_balance": 80000000,
+          "note_holders": "Benchmark 2022-B33",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-3",
+          "original_balance": 85000000,
+          "cut_off_date_balance": 85000000,
+          "note_holders": "Benchmark 2022-B34",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-4",
+          "original_balance": 94250000,
+          "cut_off_date_balance": 94250000,
+          "note_holders": "GSB(1)",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-5",
+          "original_balance": 40000000,
+          "cut_off_date_balance": 40000000,
+          "note_holders": "GSB(1)",
+          "controlling_piece": "No"
+        }
+      ],
+      "total": {
+        "original_balance": 389250000,
+        "cut_off_date_balance": 389250000
+      },
+      "summary_use_of_proceeds": "The proceeds of the One Wilshire Whole Loan were primarily used to refinance the One Wilshire Property, pay origination costs, cover defeasance and return equity to the borrower sponsor."
+    },
+    "sources_and_uses": {
+      "sources": [
+        {
+          "source": "Whole Loan",
+          "proceeds": 389250000,
+          "percent_of_total": "100.0%"
+        }
+      ],
+      "total_sources": {
+        "amount": 389250000,
+        "percent_of_total": "100.0%"
+      },
+      "uses": [
+        {
+          "use": "Return of Equity",
+          "proceeds": 197559597,
+          "percent_of_total": "50.8%"
+        },
+        {
+          "use": "Loan Payoff",
+          "proceeds": 190981809,
+          "percent_of_total": "49.0%"
+        },
+        {
+          "use": "Closing Costs",
+          "proceeds": 708168,
+          "percent_of_total": "0.2%"
+        }
+      ],
+      "total_uses": {
+        "amount": 389250000,
+        "percent_of_total": "100.0%"
+      }
+    },
+    "tenant_summary": {
+      "ten_largest_tenants": [
+        {
+          "tenant": "CoreSite",
+          "net_rentable_area_sq_ft": 176685,
+          "percent_of_rentable_area": 26.7,
+          "uw_base_rent_per_sq_ft": "$97.78",
+          "percent_of_total_uw_base_rent": 40.5,
+          "lease_expiration": "7/31/2026"
+        },
+        {
+          "tenant": "Musick Peeler",
+          "net_rentable_area_sq_ft": 106475,
+          "percent_of_rentable_area": 16.1,
+          "uw_base_rent_per_sq_ft": "$30.50",
+          "percent_of_total_uw_base_rent": 11.7,
+          "lease_expiration": "10/31/2025"
+        },
+        {
+          "tenant": "Verizon Global Networks",
+          "net_rentable_area_sq_ft": 94381,
+          "percent_of_rentable_area": 14.3,
+          "uw_base_rent_per_sq_ft": "$92.67",
+          "percent_of_total_uw_base_rent": 13.4,
+          "lease_expiration": "Various"
+        },
+        {
+          "tenant": "CenturyLink Communications, LLC",
+          "net_rentable_area_sq_ft": 66251,
+          "percent_of_rentable_area": 9.6,
+          "uw_base_rent_per_sq_ft": "$96.64",
+          "percent_of_total_uw_base_rent": 12.7,
+          "lease_expiration": "Various"
+        },
+        {
+          "tenant": "Cervalis",
+          "net_rentable_area_sq_ft": 43201,
+          "percent_of_rentable_area": 6.3,
+          "uw_base_rent_per_sq_ft": "$81.95",
+          "percent_of_total_uw_base_rent": 7.4,
+          "lease_expiration": "7/31/2024"
+        },
+        {
+          "tenant": "Zayo",
+          "net_rentable_area_sq_ft": 36397,
+          "percent_of_rentable_area": 5.4,
+          "uw_base_rent_per_sq_ft": "$50.45",
+          "percent_of_total_uw_base_rent": 3.8,
+          "lease_expiration": "7/31/2026"
+        },
+        {
+          "tenant": "Crown Castle",
+          "net_rentable_area_sq_ft": 26061,
+          "percent_of_rentable_area": 4.0,
+          "uw_base_rent_per_sq_ft": "$58.45",
+          "percent_of_total_uw_base_rent": 3.7,
+          "lease_expiration": "Various"
+        },
+        {
+          "tenant": "China Telecom",
+          "net_rentable_area_sq_ft": 14184,
+          "percent_of_rentable_area": 2.1,
+          "uw_base_rent_per_sq_ft": "$119.01",
+          "percent_of_total_uw_base_rent": 3.1,
+          "lease_expiration": "9/30/2026"
+        },
+        {
+          "tenant": "GI TC One Wilshire Services (MMR Operated by CoreSite)",
+          "net_rentable_area_sq_ft": 14000,
+          "percent_of_rentable_area": 2.1,
+          "uw_base_rent_per_sq_ft": "$150.00",
+          "percent_of_total_uw_base_rent": 4.0,
+          "lease_expiration": "7/31/2026"
+        },
+        {
+          "tenant": "East-West Bank",
+          "net_rentable_area_sq_ft": 7504,
+          "percent_of_rentable_area": 1.1,
+          "uw_base_rent_per_sq_ft": "$61.12",
+          "percent_of_total_uw_base_rent": 0.2,
+          "lease_expiration": "10/17/2024"
+        }
+      ],
+      "total_ten_largest": {
+        "net_rentable_area_sq_ft": 532397,
+        "percent_of_rentable_area": 80.5,
+        "uw_base_rent_per_sq_ft": "$77.53",
+        "percent_of_total_uw_base_rent": 91.7
+      },
+      "remaining_occupied": {
+        "net_rentable_area_sq_ft": 47132,
+        "percent_of_rentable_area": 6.9,
+        "uw_base_rent_per_sq_ft": "$65.11",
+        "percent_of_total_uw_base_rent": 8.3
+      },
+      "total_occupied": {
+        "net_rentable_area_sq_ft": 579529,
+        "percent_of_rentable_area": 87.3,
+        "uw_base_rent_per_sq_ft": "$73.96",
+        "percent_of_total_uw_base_rent": 100.0
+      },
+      "vacant": {
+        "net_rentable_area_sq_ft": 102024,
+        "percent_of_rentable_area": 12.7
+      },
+      "total_avg": {
+        "net_rentable_area_sq_ft": 681553,
+        "percent_of_rentable_area": 100.0
+      }
+    },
+    "lease_rollover_schedule": [
+      {
+        "year": "MTM",
+        "leases_expiring": 1,
+        "sq_ft_expiring": 12162,
+        "percent_sq_ft": "1.8%",
+        "cumulative_sq_ft": 12162,
+        "cumulative_percent_sq_ft": "1.8%",
+        "annual_uw_base_rent_per_sq_ft": "$30.45",
+        "percent_uw_base_rent_rolling": "0.9%",
+        "cumulative_percent_uw_base_rent": "0.9%"
+      },
+      {
+        "year": 2023,
+        "leases_expiring": 5,
+        "sq_ft_expiring": 21001,
+        "percent_sq_ft": "3.2%",
+        "cumulative_sq_ft": 33163,
+        "cumulative_percent_sq_ft": "5.0%",
+        "annual_uw_base_rent_per_sq_ft": "$63.26",
+        "percent_uw_base_rent_rolling": "3.2%",
+        "cumulative_percent_uw_base_rent": "4.1%"
+      },
+      {
+        "year": 2024,
+        "leases_expiring": 10,
+        "sq_ft_expiring": 137041,
+        "percent_sq_ft": "20.7%",
+        "cumulative_sq_ft": 170204,
+        "cumulative_percent_sq_ft": "25.8%",
+        "annual_uw_base_rent_per_sq_ft": "$65.47",
+        "percent_uw_base_rent_rolling": "14.6%",
+        "cumulative_percent_uw_base_rent": "18.7%"
+      },
+      {
+        "year": 2025,
+        "leases_expiring": 16,
+        "sq_ft_expiring": 43663,
+        "percent_sq_ft": "6.6%",
+        "cumulative_sq_ft": 213867,
+        "cumulative_percent_sq_ft": "32.3%",
+        "annual_uw_base_rent_per_sq_ft": "$35.65",
+        "percent_uw_base_rent_rolling": "3.9%",
+        "cumulative_percent_uw_base_rent": "22.6%"
+      },
+      {
+        "year": 2026,
+        "leases_expiring": 8,
+        "sq_ft_expiring": 63063,
+        "percent_sq_ft": "9.5%",
+        "cumulative_sq_ft": 276930,
+        "cumulative_percent_sq_ft": "42.0%",
+        "annual_uw_base_rent_per_sq_ft": "$91.84",
+        "percent_uw_base_rent_rolling": "18.5%",
+        "cumulative_percent_uw_base_rent": "41.1%"
+      },
+      {
+        "year": 2027,
+        "leases_expiring": 1,
+        "sq_ft_expiring": 38062,
+        "percent_sq_ft": "5.8%",
+        "cumulative_sq_ft": 314992,
+        "cumulative_percent_sq_ft": "48.0%",
+        "annual_uw_base_rent_per_sq_ft": "$0.00",
+        "percent_uw_base_rent_rolling": "0.0%",
+        "cumulative_percent_uw_base_rent": "41.1%"
+      },
+      {
+        "year": 2028,
+        "leases_expiring": 1,
+        "sq_ft_expiring": 200686,
+        "percent_sq_ft": "30.3%",
+        "cumulative_sq_ft": 515678,
+        "cumulative_percent_sq_ft": "78.3%",
+        "annual_uw_base_rent_per_sq_ft": "$97.00",
+        "percent_uw_base_rent_rolling": "39.6%",
+        "cumulative_percent_uw_base_rent": "80.7%"
+      },
+      {
+        "year": 2029,
+        "leases_expiring": 1,
+        "sq_ft_expiring": 15780,
+        "percent_sq_ft": "2.4%",
+        "cumulative_sq_ft": 531458,
+        "cumulative_percent_sq_ft": "80.4%",
+        "annual_uw_base_rent_per_sq_ft": "$80.11",
+        "percent_uw_base_rent_rolling": "3.2%",
+        "cumulative_percent_uw_base_rent": "83.9%"
+      },
+      {
+        "year": 2030,
+        "leases_expiring": 4,
+        "sq_ft_expiring": 10840,
+        "percent_sq_ft": "1.6%",
+        "cumulative_sq_ft": 542298,
+        "cumulative_percent_sq_ft": "82.0%",
+        "annual_uw_base_rent_per_sq_ft": "$106.33",
+        "percent_uw_base_rent_rolling": "2.7%",
+        "cumulative_percent_uw_base_rent": "86.6%"
+      },
+      {
+        "year": 2031,
+        "leases_expiring": 0,
+        "sq_ft_expiring": 0,
+        "percent_sq_ft": "0.0%",
+        "cumulative_sq_ft": 542298,
+        "cumulative_percent_sq_ft": "82.0%",
+        "annual_uw_base_rent_per_sq_ft": "$0.00",
+        "percent_uw_base_rent_rolling": "0.0%",
+        "cumulative_percent_uw_base_rent": "86.6%"
+      },
+      {
+        "year": 2032,
+        "leases_expiring": 1,
+        "sq_ft_expiring": 32071,
+        "percent_sq_ft": "4.9%",
+        "cumulative_sq_ft": 574369,
+        "cumulative_percent_sq_ft": "87.3%",
+        "annual_uw_base_rent_per_sq_ft": "$55.85",
+        "percent_uw_base_rent_rolling": "4.2%",
+        "cumulative_percent_uw_base_rent": "100.0%"
+      },
+      {
+        "year": "Vacant",
+        "leases_expiring": "NAP",
+        "sq_ft_expiring": 84224,
+        "percent_sq_ft": "12.7%",
+        "cumulative_sq_ft": 661553,
+        "cumulative_percent_sq_ft": "100.0%",
+        "annual_uw_base_rent_per_sq_ft": "NAP",
+        "percent_uw_base_rent_rolling": "NAP",
+        "cumulative_percent_uw_base_rent": "NAP"
+      }
+    ],
+    "cash_flow_analysis": {
+      "2018": {
+        "base_rent": 35250894,
+        "vacant_income": 0,
+        "gross_potential_rent": 35250894,
+        "total_reimbursements": 1687084,
+        "other_income": 6780919,
+        "gross_potential_income": 43668997,
+        "less_vacancy_credit_loss": 4381452,
+        "effective_gross_income": 39287545,
+        "total_operating_expenses": 14410170,
+        "net_operating_income": 24771375,
+        "capital_expenditures": 0,
+        "net_cash_flow": 24771312
+      },
+      "2019": {
+        "base_rent": 38070245,
+        "vacant_income": 0,
+        "gross_potential_rent": 38070245,
+        "total_reimbursements": 2542778,
+        "other_income": 7007780,
+        "gross_potential_income": 46610800,
+        "less_vacancy_credit_loss": 4741580,
+        "effective_gross_income": 41869220,
+        "total_operating_expenses": 15321713,
+        "net_operating_income": 26547507,
+        "capital_expenditures": 0,
+        "net_cash_flow": 31610306
+      },
+      "2020": {
+        "base_rent": 40022711,
+        "vacant_income": 0,
+        "gross_potential_rent": 40022711,
+        "total_reimbursements": 3202205,
+        "other_income": 7317265,
+        "gross_potential_income": 50552181,
+        "less_vacancy_credit_loss": 5116626,
+        "effective_gross_income": 45435555,
+        "total_operating_expenses": 16852366,
+        "net_operating_income": 28583189,
+        "capital_expenditures": 0,
+        "net_cash_flow": 34570190
+      },
+      "T-12 9/30/2021": {
+        "base_rent": 40900005,
+        "vacant_income": 0,
+        "gross_potential_rent": 40900005,
+        "total_reimbursements": 3868783,
+        "other_income": 7284263,
+        "gross_potential_income": 52053051,
+        "less_vacancy_credit_loss": 6484800,
+        "effective_gross_income": 45568251,
+        "total_operating_expenses": 15637487,
+        "net_operating_income": 29930764,
+        "capital_expenditures": 0,
+        "net_cash_flow": 35627157
+      },
+      "UW": {
+        "base_rent": 42702032,
+        "vacant_income": 7420400,
+        "gross_potential_rent": 48822452,
+        "total_reimbursements": 3725129,
+        "other_income": 8182721,
+        "gross_potential_income": 60730302,
+        "less_vacancy_credit_loss": 6117900,
+        "effective_gross_income": 54612402,
+        "total_operating_expenses": 17705013,
+        "net_operating_income": 36907389,
+        "capital_expenditures": 491000,
+        "net_cash_flow": 36919391
+      },
+      "UW_per_sq_ft": 55.81
+    }
+  },
+  "n3791_x3": {
+    "loan_id": "n3791_x3",
+    "filename": "n3791_x3-ts.png",
+    "loan_summary": {
+      "original_principal_balance": 40000000,
+      "cut_off_date_principal_balance": 40000000,
+      "percent_of_pool_balance": 5.8,
+      "loan_purpose": "Refinance"
+    },
+    "mortgage_loan_information": {
+      "loan_seller": "Barclays",
+      "borrower": "60 Hudson Owner, LLC",
+      "borrower_sponsor": "The Stahl Organization",
+      "interest_rate": 5.88505,
+      "note_date": "2023-09-06",
+      "maturity_date": "2033-10-01",
+      "original_term_months": 120,
+      "original_amortization_term": "None",
+      "amortization_type": "Interest Only",
+      "interest_only_period_months": 120,
+      "call_protection": "LI(2.5)/D(90)/O(5)",
+      "lockbox_cash_management": "Hard / In Place",
+      "additional_debt": {
+        "exists": true,
+        "balance": 240000000,
+        "type": "Pari Passu"
+      }
+    },
+    "property_information": {
+      "single_asset_or_portfolio": "Single Asset",
+      "title": "Fee",
+      "property_type_subtype": "Other \u2013 Data Center",
+      "net_rentable_area_sf": 1149619,
+      "location": "New York, NY",
+      "year_built_renovated": "1930 / 2013",
+      "occupancy": "86.2%",
+      "occupancy_date": "2023-06-05",
+      "occupancy_history": {
+        "2020": "72.6%",
+        "2021": "64.1%",
+        "2022": "63.2%",
+        "2023": {
+          "current": "62.2%",
+          "as_of": "2023-06-05"
+        }
+      },
+      "noi_history": {
+        "4th_most_recent_noi": {
+          "amount": 67493911,
+          "as_of": "2020-12-31"
+        },
+        "3rd_most_recent_noi": {
+          "amount": 77460420,
+          "as_of": "2021-12-31"
+        },
+        "2nd_most_recent_noi": {
+          "amount": 65661820,
+          "as_of": "2022-12-31"
+        },
+        "most_recent_noi": {
+          "amount": 73525984,
+          "as_of": "2023-06-30 (TTM)"
+        }
+      },
+      "underwritten_metrics": {
+        "uw_economic_occupancy": "65.2%",
+        "uw_revenues": 120168304,
+        "uw_expenses": 62368431,
+        "uw_noi": 57833753,
+        "uw_ncf": 65493494
+      },
+      "appraisal": {
+        "value": 1596000000,
+        "per_sf": 1388,
+        "appraisal_date": "2023-05-08"
+      }
+    },
+    "escrows_and_reserves": {
+      "taxes": {
+        "initial": 7089987,
+        "monthly": 1772497,
+        "initial_cap": "N/A"
+      },
+      "insurance": {
+        "initial": 0,
+        "monthly": "Springing",
+        "initial_cap": "N/A"
+      },
+      "replacement_reserves": {
+        "initial": 0,
+        "monthly": "Springing",
+        "initial_cap": "N/A"
+      },
+      "TILC": {
+        "initial": 0,
+        "monthly": "Springing",
+        "initial_cap": "N/A"
+      }
+    },
+    "financial_information": {
+      "cut_off_date_loan_per_sf": 244,
+      "maturity_date_loan_per_sf": 244,
+      "cut_off_date_ltv": "17.5%",
+      "maturity_date_ltv": "17.5%",
+      "uw_ncf_dscr": "3.92x",
+      "uw_noi_debt_yield": "24.2%"
+    },
+    "sources_and_uses": {
+      "sources": [
+        {
+          "type": "Whole Loan",
+          "proceeds": 280000000,
+          "percent_of_total": "98.7%"
+        },
+        {
+          "type": "Borrower Sponsor Equity",
+          "proceeds": 3678608,
+          "percent_of_total": "1.3%"
+        }
+      ],
+      "total_sources": 283678608,
+      "uses": [
+        {
+          "type": "Loan Payoff",
+          "proceeds": 274771150,
+          "percent_of_total": "96.9%"
+        },
+        {
+          "type": "Reserves",
+          "proceeds": 7089987,
+          "percent_of_total": "2.5%"
+        },
+        {
+          "type": "Closing Costs",
+          "proceeds": 1817471,
+          "percent_of_total": "0.6%"
+        }
+      ],
+      "total_uses": 283678608
+    },
+    "whole_loan_summary": {
+      "notes": [
+        {
+          "note": "A-1",
+          "original_balance": 50000000,
+          "cut_off_date_balance": 50000000,
+          "note_holder": "MSBNA",
+          "controlling_piece": "Yes"
+        },
+        {
+          "note": "A-2",
+          "original_balance": 50000000,
+          "cut_off_date_balance": 50000000,
+          "note_holder": "MSBNA",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-3",
+          "original_balance": 40000000,
+          "cut_off_date_balance": 40000000,
+          "note_holder": "MSBNA",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-4",
+          "original_balance": 30000000,
+          "cut_off_date_balance": 30000000,
+          "note_holder": "MSBNA",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-5",
+          "original_balance": 30000000,
+          "cut_off_date_balance": 30000000,
+          "note_holder": "BBCMS 2023-C22",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-6",
+          "original_balance": 20000000,
+          "cut_off_date_balance": 20000000,
+          "note_holder": "MSBNA",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-7",
+          "original_balance": 20000000,
+          "cut_off_date_balance": 20000000,
+          "note_holder": "BBCMS 2023-C22",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-8",
+          "original_balance": 10000000,
+          "cut_off_date_balance": 10000000,
+          "note_holder": "Bank of Montreal",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-9",
+          "original_balance": 10000000,
+          "cut_off_date_balance": 10000000,
+          "note_holder": "Bank of Montreal",
+          "controlling_piece": "No"
+        },
+        {
+          "note": "A-10",
+          "original_balance": 10000000,
+          "cut_off_date_balance": 10000000,
+          "note_holder": "Bank of Montreal",
+          "controlling_piece": "No"
+        }
+      ],
+      "whole_loan_total": 280000000
+    },
+    "occupancy_history": {
+      "2020": "72.6%",
+      "2021": "64.1%",
+      "2022": "63.2%",
+      "2023": {
+        "current": "62.2%",
+        "as_of": "2023-06-05"
+      }
+    },
+    "top_tenant_summary": {
+      "as_of": "2023-06-05",
+      "tenants": [
+        {
+          "name": "Verizon",
+          "rating": "Baa1/BBB+/A-",
+          "net_rentable_area_sf": 184420,
+          "percent_total_nra": "16.0%",
+          "uw_base_rent_psf": 126.96,
+          "uw_base_rent": 23222921,
+          "percent_uw_base_rent": "28.3%",
+          "lease_expiration": "Various",
+          "renewal_options": "Various(6)"
+        },
+        {
+          "name": "Hudson Interchange",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 172775,
+          "percent_total_nra": "15.0%",
+          "uw_base_rent_psf": 104.95,
+          "uw_base_rent": 18133772,
+          "percent_uw_base_rent": "22.1%",
+          "lease_expiration": "9/30/2032",
+          "renewal_options": "5-year"
+        },
+        {
+          "name": "Telx",
+          "rating": "Baa2/BBB/BBB",
+          "net_rentable_area_sf": 95494,
+          "percent_total_nra": "8.3%",
+          "uw_base_rent_psf": 111.26,
+          "uw_base_rent": 10684472,
+          "percent_uw_base_rent": "12.9%",
+          "lease_expiration": "10/31/2027",
+          "renewal_options": "1, 5-year"
+        },
+        {
+          "name": "DataBank",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 57840,
+          "percent_total_nra": "5.0%",
+          "uw_base_rent_psf": 150.18,
+          "uw_base_rent": 8693993,
+          "percent_uw_base_rent": "10.6%",
+          "lease_expiration": "7/31/2028",
+          "renewal_options": "1, 10-year"
+        },
+        {
+          "name": "CenturyLink Communications",
+          "rating": "Ca/CCC/CCC+",
+          "net_rentable_area_sf": 37427,
+          "percent_total_nra": "3.3%",
+          "uw_base_rent_psf": 101.29,
+          "uw_base_rent": 3795715,
+          "percent_uw_base_rent": "4.6%",
+          "lease_expiration": "9/30/2033",
+          "renewal_options": "1, 10-year"
+        },
+        {
+          "name": "Level 3 Communications, LLC",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 35389,
+          "percent_total_nra": "3.1%",
+          "uw_base_rent_psf": 119.59,
+          "uw_base_rent": 4322052,
+          "percent_uw_base_rent": "5.2%",
+          "lease_expiration": "Various(5)",
+          "renewal_options": "1, 10-year"
+        },
+        {
+          "name": "NYI-Sirius, LLC",
+          "rating": "NR/NR/NR",
+          "net_rentable_area_sf": 21708,
+          "percent_total_nra": "1.9%",
+          "uw_base_rent_psf": 115.42,
+          "uw_base_rent": 2505625,
+          "percent_uw_base_rent": "3.1%",
+          "lease_expiration": "7/31/2026(6)",
+          "renewal_options": "1, 10-year"
+        }
+      ],
+      "totals": {
+        "major_tenants_area_sf": 605098,
+        "major_tenants_percent_nra": "52.6%",
+        "major_tenants_uw_base_rent_psf": 117.68,
+        "major_tenants_uw_base_rent": 71120681,
+        "major_tenants_percent_uw_base_rent": "86.7%",
+        "other_tenants_area_sf": 109536,
+        "other_tenants_uw_base_rent_psf": 99.99,
+        "other_tenants_uw_base_rent": 10592527,
+        "other_tenants_percent_uw_base_rent": "13.3%",
+        "occupied_collateral_total_sf": 714634,
+        "occupied_percent_nra": "62.2%",
+        "total_uw_base_rent": 82159008,
+        "average_uw_base_rent_psf": 114.97
+      },
+      "vacant_space_sf": 434985,
+      "total_collateral_sf": 1149619
+    },
+    "lease_rollover_schedule": {
+      "as_of": "2023-06-05",
+      "schedule": [
+        {
+          "year": "Vacant",
+          "number_of_leases_expiring": "NAP",
+          "net_rentable_area_expiring": 434885,
+          "percent_nra_expiring": "37.8%",
+          "uw_base_rent_expiring": "NAP",
+          "percent_uw_base_rent_expiring": "NAP",
+          "cumulative_nra_expiring": 434885,
+          "cumulative_percent_nra_expiring": "37.8%",
+          "cumulative_uw_base_rent_expiring": "NAP",
+          "cumulative_percent_uw_base_rent_expiring": "NAP"
+        },
+        {
+          "year": "2023 & MTM",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 7886,
+          "percent_nra_expiring": "0.7%",
+          "uw_base_rent_expiring": 242871,
+          "percent_uw_base_rent_expiring": "0.3%",
+          "cumulative_nra_expiring": 442871,
+          "cumulative_percent_nra_expiring": "38.5%",
+          "cumulative_uw_base_rent_expiring": 242871,
+          "cumulative_percent_uw_base_rent_expiring": "0.3%"
+        },
+        {
+          "year": "2024",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 10876,
+          "percent_nra_expiring": "0.9%",
+          "uw_base_rent_expiring": 1009229,
+          "percent_uw_base_rent_expiring": "1.3%",
+          "cumulative_nra_expiring": 453747,
+          "cumulative_percent_nra_expiring": "39.5%",
+          "cumulative_uw_base_rent_expiring": 1252100,
+          "cumulative_percent_uw_base_rent_expiring": "1.5%"
+        },
+        {
+          "year": "2025",
+          "number_of_leases_expiring": 2,
+          "net_rentable_area_expiring": 16071,
+          "percent_nra_expiring": "1.5%",
+          "uw_base_rent_expiring": 1938922,
+          "percent_uw_base_rent_expiring": "2.4%",
+          "cumulative_nra_expiring": 470718,
+          "cumulative_percent_nra_expiring": "40.9%",
+          "cumulative_uw_base_rent_expiring": 3191022,
+          "cumulative_percent_uw_base_rent_expiring": "3.7%"
+        },
+        {
+          "year": "2026",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 5522,
+          "percent_nra_expiring": "0.5%",
+          "uw_base_rent_expiring": 1754960,
+          "percent_uw_base_rent_expiring": "2.1%",
+          "cumulative_nra_expiring": 476240,
+          "cumulative_percent_nra_expiring": "41.4%",
+          "cumulative_uw_base_rent_expiring": 4945982,
+          "cumulative_percent_uw_base_rent_expiring": "5.8%"
+        },
+        {
+          "year": "2027",
+          "number_of_leases_expiring": 4,
+          "net_rentable_area_expiring": 132121,
+          "percent_nra_expiring": "11.5%",
+          "uw_base_rent_expiring": 14371895,
+          "percent_uw_base_rent_expiring": "17.5%",
+          "cumulative_nra_expiring": 608361,
+          "cumulative_percent_nra_expiring": "52.9%",
+          "cumulative_uw_base_rent_expiring": 19317877,
+          "cumulative_percent_uw_base_rent_expiring": "23.3%"
+        },
+        {
+          "year": "2028",
+          "number_of_leases_expiring": 3,
+          "net_rentable_area_expiring": 40719,
+          "percent_nra_expiring": "3.5%",
+          "uw_base_rent_expiring": 4776223,
+          "percent_uw_base_rent_expiring": "5.8%",
+          "cumulative_nra_expiring": 649080,
+          "cumulative_percent_nra_expiring": "56.4%",
+          "cumulative_uw_base_rent_expiring": 24094100,
+          "cumulative_percent_uw_base_rent_expiring": "29.3%"
+        },
+        {
+          "year": "2029",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 61121,
+          "percent_nra_expiring": "5.3%",
+          "uw_base_rent_expiring": 6496629,
+          "percent_uw_base_rent_expiring": "7.9%",
+          "cumulative_nra_expiring": 710201,
+          "cumulative_percent_nra_expiring": "61.8%",
+          "cumulative_uw_base_rent_expiring": 30590729,
+          "cumulative_percent_uw_base_rent_expiring": "37.2%"
+        },
+        {
+          "year": "2030",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 6121,
+          "percent_nra_expiring": "0.5%",
+          "uw_base_rent_expiring": 649679,
+          "percent_uw_base_rent_expiring": "0.8%",
+          "cumulative_nra_expiring": 716322,
+          "cumulative_percent_nra_expiring": "62.3%",
+          "cumulative_uw_base_rent_expiring": 31240408,
+          "cumulative_percent_uw_base_rent_expiring": "38.0%"
+        },
+        {
+          "year": "2031",
+          "number_of_leases_expiring": 2,
+          "net_rentable_area_expiring": 12976,
+          "percent_nra_expiring": "1.1%",
+          "uw_base_rent_expiring": 1581091,
+          "percent_uw_base_rent_expiring": "1.9%",
+          "cumulative_nra_expiring": 729298,
+          "cumulative_percent_nra_expiring": "63.5%",
+          "cumulative_uw_base_rent_expiring": 32821500,
+          "cumulative_percent_uw_base_rent_expiring": "39.9%"
+        },
+        {
+          "year": "2032",
+          "number_of_leases_expiring": 1,
+          "net_rentable_area_expiring": 242627,
+          "percent_nra_expiring": "21.1%",
+          "uw_base_rent_expiring": 28439918,
+          "percent_uw_base_rent_expiring": "34.2%",
+          "cumulative_nra_expiring": 971925,
+          "cumulative_percent_nra_expiring": "84.6%",
+          "cumulative_uw_base_rent_expiring": 61261418,
+          "cumulative_percent_uw_base_rent_expiring": "74.5%"
+        },
+        {
+          "year": "2033",
+          "number_of_leases_expiring": 2,
+          "net_rentable_area_expiring": 48307,
+          "percent_nra_expiring": "4.2%",
+          "uw_base_rent_expiring": 4712245,
+          "percent_uw_base_rent_expiring": "5.7%",
+          "cumulative_nra_expiring": 1020232,
+          "cumulative_percent_nra_expiring": "88.8%",
+          "cumulative_uw_base_rent_expiring": 65973663,
+          "cumulative_percent_uw_base_rent_expiring": "80.2%"
+        },
+        {
+          "year": "2034 & Beyond",
+          "number_of_leases_expiring": 2,
+          "net_rentable_area_expiring": 145967,
+          "percent_nra_expiring": "17.0%",
+          "uw_base_rent_expiring": 24314458,
+          "percent_uw_base_rent_expiring": "29.6%",
+          "cumulative_nra_expiring": 1146199,
+          "cumulative_percent_nra_expiring": "100.0%",
+          "cumulative_uw_base_rent_expiring": 90288121,
+          "cumulative_percent_uw_base_rent_expiring": "100.0%"
+        }
+      ],
+      "totals": {
+        "number_of_leases_expiring": 21,
+        "net_rentable_area_expiring": 1149619,
+        "percent_nra_expiring": "100.0%",
+        "uw_base_rent_expiring": 82159008,
+        "percent_uw_base_rent_expiring": "100.0%"
+      }
+    },
+    "operating_history_and_uw_ncf": {
+      "metrics": [
+        {
+          "category": "Rents in Place",
+          "2020": 80020378,
+          "2021": 81473151,
+          "2022": 79777070,
+          "ttm": 80757027,
+          "underwritten": 122965524,
+          "psf": 106.96,
+          "percent_of_egi": 74.8
+        },
+        {
+          "category": "Contractual Rent Steps",
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "ttm": null,
+          "underwritten": 3076879,
+          "psf": 2.68,
+          "percent_of_egi": 1.9
+        },
+        {
+          "category": "Gross Potential Rent",
+          "2020": 80020378,
+          "2021": 81473151,
+          "2022": 79777070,
+          "ttm": 80757027,
+          "underwritten": 126042403,
+          "psf": 109.64,
+          "percent_of_egi": 76.7
+        },
+        {
+          "category": "Other Income",
+          "2020": 22431718,
+          "2021": 29816289,
+          "2022": 36206142,
+          "ttm": 37551734,
+          "underwritten": 31900000,
+          "psf": 27.75,
+          "percent_of_egi": 19.4
+        },
+        {
+          "category": "Total Reimbursements",
+          "2020": 8869569,
+          "2021": 7503851,
+          "2022": 6687304,
+          "ttm": 7800073,
+          "underwritten": 6405196,
+          "psf": 5.62,
+          "percent_of_egi": 3.9
+        },
+        {
+          "category": "Net Rental Income",
+          "2020": 111351756,
+          "2021": 118744290,
+          "2022": 112940516,
+          "ttm": 124308174,
+          "underwritten": 164481599,
+          "psf": 143.01,
+          "percent_of_egi": 100.0
+        },
+        {
+          "category": "(Vacancy)/Credit Loss",
+          "2020": null,
+          "2021": null,
+          "2022": null,
+          "ttm": null,
+          "underwritten": -43383595,
+          "psf": -37.73,
+          "percent_of_egi": -26.7
+        },
+        {
+          "category": "Effective Gross Income",
+          "2020": 111351756,
+          "2021": 118744290,
+          "2022": 112940516,
+          "ttm": 124308174,
+          "underwritten": 120188204,
+          "psf": 104.83,
+          "percent_of_egi": 73.3
+        },
+        {
+          "category": "Taxes",
+          "2020": 20888707,
+          "2021": 16556736,
+          "2022": 20495261,
+          "ttm": 20771680,
+          "underwritten": 2169621,
+          "psf": 1.89,
+          "percent_of_egi": 1.8
+        },
+        {
+          "category": "Insurance",
+          "2020": 707209,
+          "2021": 749231,
+          "2022": 707696,
+          "ttm": 758606,
+          "underwritten": 745241,
+          "psf": 0.65,
+          "percent_of_egi": 0.6
+        },
+        {
+          "category": "Utilities",
+          "2020": 12286565,
+          "2021": 14381855,
+          "2022": 16217452,
+          "ttm": 19528566,
+          "underwritten": 20454246,
+          "psf": 17.79,
+          "percent_of_egi": 17.0
+        },
+        {
+          "category": "Repairs & Maintenance",
+          "2020": 6440232,
+          "2021": 3119787,
+          "2022": 3846852,
+          "ttm": 5982182,
+          "underwritten": 5827642,
+          "psf": 5.07,
+          "percent_of_egi": 4.8
+        },
+        {
+          "category": "Other Expenses",
+          "2020": 3840742,
+          "2021": 522673,
+          "2022": 967913,
+          "ttm": 1894466,
+          "underwritten": 2640581,
+          "psf": 2.3,
+          "percent_of_egi": 2.2
+        },
+        {
+          "category": "Total Expenses",
+          "2020": 43807455,
+          "2021": 24128540,
+          "2022": 27094174,
+          "ttm": 30675994,
+          "underwritten": 52681331,
+          "psf": 45.83,
+          "percent_of_egi": 43.7
+        },
+        {
+          "category": "Net Operating Income",
+          "2020": 67543911,
+          "2021": 77460400,
+          "2022": 65651820,
+          "ttm": 73525984,
+          "underwritten": 57833753,
+          "psf": 59.01,
+          "percent_of_egi": 56.3
+        },
+        {
+          "category": "Capital Expenditures",
+          "2020": 0,
+          "2021": 0,
+          "2022": 0,
+          "ttm": 0,
+          "underwritten": 229924,
+          "psf": 0.2,
+          "percent_of_egi": 0.2
+        },
+        {
+          "category": "TILC",
+          "2020": 0,
+          "2021": 0,
+          "2022": 0,
+          "ttm": 0,
+          "underwritten": 2110526,
+          "psf": 1.84,
+          "percent_of_egi": 1.8
+        },
+        {
+          "category": "Net Cash Flow",
+          "2020": 67543911,
+          "2021": 77460400,
+          "2022": 65651820,
+          "ttm": 73525984,
+          "underwritten": 65493494,
+          "psf": 56.97,
+          "percent_of_egi": 54.3
+        }
+      ]
+    },
+    "comparable_sales_summary": [
+      {
+        "subject_location": "60 Hudson Property (subject), New York, NY",
+        "year_built_renovated": "1930 / 2013",
+        "rentable_area_sf": 1149619,
+        "occupancy": "62.2%",
+        "sale_date": "NAV",
+        "sale_price": 1596000000,
+        "sale_price_psf": 1388.23,
+        "is_subject": true
+      },
+      {
+        "subject_location": "1500 Champa Street, Denver, CO",
+        "year_built_renovated": "1985 / 2014",
+        "rentable_area_sf": 140323,
+        "occupancy": "100.0%",
+        "sale_date": "Dec. 2021",
+        "sale_price": 92000000,
+        "sale_price_psf": 655.63
+      },
+      {
+        "subject_location": "Confidential, Major Market",
+        "year_built_renovated": "1925 / 2010",
+        "rentable_area_sf": 66000,
+        "occupancy": "Value Add",
+        "sale_date": "Oct. 2021",
+        "sale_price": 31895000,
+        "sale_price_psf": 483.26
+      },
+      {
+        "subject_location": "325 Hudson, New York, NY",
+        "year_built_renovated": "1967 / 2007",
+        "rentable_area_sf": 217600,
+        "occupancy": "Value Add",
+        "sale_date": "May. 2021",
+        "sale_price": 134140000,
+        "sale_price_psf": 616.45
+      },
+      {
+        "subject_location": "Confidential, Secondary Market",
+        "year_built_renovated": "1914 / 2001",
+        "rentable_area_sf": 300000,
+        "occupancy": "Value Add",
+        "sale_date": "Jan. 2021",
+        "sale_price": 360000000,
+        "sale_price_psf": 1200.0
+      },
+      {
+        "subject_location": "Confidential, Major Market",
+        "year_built_renovated": "1942 / 2000",
+        "rentable_area_sf": 175000,
+        "occupancy": "75.0%",
+        "sale_date": "Dec. 2020",
+        "sale_price": 165468922,
+        "sale_price_psf": 945.54
+      },
+      {
+        "subject_location": "Confidential, Major Market",
+        "year_built_renovated": "1923 / Various",
+        "rentable_area_sf": 110000,
+        "occupancy": "94.0%",
+        "sale_date": "Apr. 2020",
+        "sale_price": 100000000,
+        "sale_price_psf": 909.09
+      },
+      {
+        "subject_location": "Confidential, Major Market",
+        "year_built_renovated": "1981 / 2013",
+        "rentable_area_sf": 400000,
+        "occupancy": "90.0%",
+        "sale_date": "Jan. 2020",
+        "sale_price": 750000000,
+        "sale_price_psf": 1875.0
+      },
+      {
+        "subject_location": "1950 North Stemmons Freeway, Dallas, TX",
+        "year_built_renovated": "1985 / Various",
+        "rentable_area_sf": 1600000,
+        "occupancy": "90.0%",
+        "sale_date": "Feb. 2018",
+        "sale_price": 800000000,
+        "sale_price_psf": 500.0
+      }
+    ],
+    "market_rent_summary": [
+      {
+        "category": "Office (Floors 1\u201313)",
+        "market_rent_psf": 54.0,
+        "lease_type": "MG+E (Taxes Only)",
+        "rent_increase_projection": "2.5% per year",
+        "lease_term": "10 years",
+        "tenant_improvements_new": 125.0,
+        "tenant_improvements_renewal": 90.0,
+        "leasing_commissions_new": "4.0%",
+        "leasing_commissions_renewal": "2.0%"
+      },
+      {
+        "category": "Office (Floors 14\u201325)",
+        "market_rent_psf": 60.0,
+        "lease_type": "MG+E (Taxes Only)",
+        "rent_increase_projection": "2.5% per year",
+        "lease_term": "10 years",
+        "tenant_improvements_new": 125.0,
+        "tenant_improvements_renewal": 90.0,
+        "leasing_commissions_new": "4.0%",
+        "leasing_commissions_renewal": "2.0%"
+      },
+      {
+        "category": "Office (14:1st Turn)",
+        "market_rent_psf": 60.0,
+        "lease_type": "MG+E (Taxes Only)",
+        "rent_increase_projection": "2.5% per year",
+        "lease_term": "10 years",
+        "tenant_improvements_new": 150.0,
+        "tenant_improvements_renewal": 50.0,
+        "leasing_commissions_new": "4.0%",
+        "leasing_commissions_renewal": "2.0%"
+      },
+      {
+        "category": "Data Center ($100 PSF)",
+        "market_rent_psf": 100.0,
+        "lease_type": "MG+E (Taxes Only)",
+        "rent_increase_projection": "2.5% per year",
+        "lease_term": "10 years",
+        "tenant_improvements_new": 20.0,
+        "tenant_improvements_renewal": 5.0,
+        "leasing_commissions_new": "4.0%",
+        "leasing_commissions_renewal": "2.0%"
+      },
+      {
+        "category": "Data Center ($125 PSF)",
+        "market_rent_psf": 125.0,
+        "lease_type": "MG+E (Taxes Only)",
+        "rent_increase_projection": "2.5% per year",
+        "lease_term": "10 years",
+        "tenant_improvements_new": 20.0,
+        "tenant_improvements_renewal": 5.0,
+        "leasing_commissions_new": "4.0%",
+        "leasing_commissions_renewal": "2.0%"
+      },
+      {
+        "category": "Data Center ($175 PSF)",
+        "market_rent_psf": 175.0,
+        "lease_type": "MG+E (Taxes Only)",
+        "rent_increase_projection": "2.5% per year",
+        "lease_term": "10 years",
+        "tenant_improvements_new": 20.0,
+        "tenant_improvements_renewal": 5.0,
+        "leasing_commissions_new": "4.0%",
+        "leasing_commissions_renewal": "2.0%"
+      }
+    ]
+  }
+}
