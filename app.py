@@ -9,8 +9,6 @@ import os
 os.environ["STREAMLIT_WATCH_DIRECTORIES"] = "false"
 
 
-
-
 st.set_page_config(page_title="Loan Summary Table", layout="wide")
 
 st.markdown("""
@@ -481,6 +479,7 @@ with tab2:
     <!-- LOAN SUMMARY -->
     <h3>📄 Loan Information</h3>
     <table>
+        <tr><td>Deal Name</td><td>Series 2020-BNK25</td></tr>
         <tr><td>Loan ID</td><td>n1967-x4</td></tr>
         <tr><td>Loan Seller</td><td>Bank of America, National Association</td></tr>
         <tr><td>Borrower Sponsor</td><td>BREIT Operating Partnership L.P.</td></tr>
@@ -822,6 +821,7 @@ with tab3:
 
     <h3>📄 Loan Information</h3>
     <table>
+      <tr><td>Deal Name</td><td>BENCHMARK 2021-B23</td></tr>
       <tr><td>Loan ID</td><td>n2405-x1</td></tr>
       <tr><td>Loan Seller</td><td>GACC</td></tr>
       <tr><td>Borrower Sponsor</td><td>John R. Wither</td></tr>
@@ -1096,6 +1096,7 @@ with tab4:
     html_n2450 = """
     <table>
     <h3>📄 Loan Information</h3>
+        <tr><td>Deal Name</td><td>BENCHMARK 2021-B24</td></tr>
         <tr><td>Loan ID</td><td>n2450-x2</td></tr>
         <tr><td>File Name</td><td>n2450-x2_prets.png</td></tr>
         <tr><td>Mortgage Loan Seller</td><td>JPMCB</td></tr>
@@ -1810,13 +1811,13 @@ with tab5:
 
     <h3>🏦 Loan Information</h3>
     <table>
+     <tr>
+        <td class="label">Deal Name</td>
+        <td>BANK 2021-BNK36</td>
+      </tr>
       <tr>
         <td class="label">Loan ID</td>
         <td>n2711_x3</td>
-      </tr>
-      <tr>
-        <td class="label">File Name</td>
-        <td>n2711_x3-ts.png</td>
       </tr>
       <tr>
         <td class="label">Loan Seller</td>
@@ -2304,13 +2305,13 @@ with tab6:
     html_n3021 = """
      <h3>🏦 Loan Information</h3>
     <table>
+    <tr>
+        <td class="label">Deal Name</td>
+        <td>BENCHMARK 2022-B34</td>
+      </tr>
       <tr>
         <td class="label">Loan ID</td>
         <td>n3021-x3</td>
-      </tr>
-      <tr>
-        <td class="label">File Name</td>
-        <td>n3021-x3_ts.png</td>
       </tr>
       <tr>
         <td class="label">Loan Seller</td>
@@ -2904,13 +2905,13 @@ with tab7:
 
     <h3>🏦 Loan Information</h3>
   <table>
+  <tr>
+      <td class="label">Deal Name</td>
+      <td>Series 2023-C22</td>
+    </tr>
     <tr>
       <td class="label">Loan ID</td>
       <td>n3791_x3</td>
-    </tr>
-    <tr>
-      <td class="label">File Name</td>
-      <td>n3791_x3-ts.png</td>
     </tr>
     <tr>
       <td class="label">Loan Seller</td>
