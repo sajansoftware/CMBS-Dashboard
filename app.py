@@ -205,7 +205,21 @@ def compute_loan_term(data):
 
 records = []
 
+deal_names = {
+    "n1967-x4": "Series 2020-BNK25",
+    "n2405-x1": "BENCHMARK 2021-B23",
+    "n2450-x2": "BENCHMARK 2021-B24",
+    "n2711_x3": "BANK 2021-BNK36",
+    "n3021-x3": "BENCHMARK 2022-B34",
+    "n3791_x3": "Series 2023-C22",
+}
+
+
+
 for loan_id, data in raw_data.items():
+
+    deal_name = deal_names.get(loan_id, "")
+
     purpose = find_nested(data, [
         "loan_purpose", "loan_summary.loan_purpose", "mortgage_loan_information.loan_purpose",
         "loan_metadata.loan_purpose", "mortgaged_property_information.loan_purpose", "details.loan_purpose"
@@ -356,6 +370,7 @@ for loan_id, data in raw_data.items():
 
     records.append({
         "Loan ID": loan_id,
+        "Deal Name": deal_name,
         "Purpose": purpose,
         "Issuer": issuer,
         "Borrower": borrower,
